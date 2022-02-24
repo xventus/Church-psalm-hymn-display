@@ -47,5 +47,5 @@ Volně k použití pro kostely, nekomerční účely ...
 ![screen](/display/images/IMG_4641.jpg)
 ![main board](/display/images/IMG_4636.jpg)
 ![remote](/controller/DOC/images/IMG_4635.jpg)
-
+![case](/controller/case%203d%20print/overall_keypad.png)
 
