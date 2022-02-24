@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>089&nbsp;&ndash; Modlitba před spaním | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>089&nbsp;&ndash; Modlitba před spaním</h1>
+
+            <p><em>Neděle</em></p>
+
+<p>ÚVOD</p>
+            <p class="song"><img src="/images/songs/89-2.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p><strong>K</strong> Bože, shlédni a pomoz.<br>
+<strong>L</strong> Pane, pospěš mi pomáhat.<br>
+<strong>V</strong> Sláva Otci i Synu i Duchu Svatému,<br>
+jako byla na počátku, i nyní i vždycky<br>
+a na věky věků. Amen. Aleluja.</p>
+            <p><small>Doporučuje se zpytování svědomí a úkon kajícnosti, který se při společné modlitbě může konat jako na začátku mše.</small></p>
+
+<p>HYMNUS</p>
+
+<p><small>Mimo dobu velikonoční</small></p>
+            <p class="song"><img src="/images/songs/89-4.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p class="stanza" id="4">
+                
+                1.
+                Na sklonku dne tě upřímně, / Tvůrce všech věcí prosíme: / s tou laskavostí, jíž jsi znám, / stůj při nás v noci a nás chraň.
+            </p>
+            <p class="stanza" id="5">
+                
+                2.
+                Jen o tobě ať srdce sní, / ať ve snu cítí, že s ním jsi, / aby hned, jak se rozední, / znělo tvou chválou nejčistší.
+            </p>
+            <p class="stanza" id="6">
+                
+                3.
+                V žití nám pevné zdraví dej, / v nás oheň lásky rozehřej, / ať temnou noc a také nás / rozjasní tvého světla jas.
+            </p>
+            <p class="stanza" id="7">
+                
+                4.
+                To, Otče mocný nejvýše, / dej skrze Krista Ježíše, / s nímž a se Svatým Duchem též / po všechny věky kraluješ. / Amen.
+            </p>
+            <p><small>V době velikonoční</small></p>
+            <p class="stanza" id="9">
+                
+                1.
+                Ježíši, Spasiteli náš, / ty Slovo Otce věčného, / tys bdělý strážce věrných svých, / paprsku světla božského.
+            </p>
+            <p class="stanza" id="10">
+                
+                2.
+                Ty budíš den a voláš noc, / tys Tvůrce světla, věků Pán; / když unavil nás denní shon, / pokojné noci dopřej nám.
+            </p>
+            <p class="stanza" id="11">
+                
+                3.
+                Ty, jenž jsi zlomil pekla noc / a nad smrtí jsi zvítězil, / ó nedej, by hřích vládl těm, / za něž jsi krev svou vycedil.
+            </p>
+            <p class="stanza" id="12">
+                
+                4.
+                Dopřej nám nyní klidným snem / údy i mysl osvěžit, / aby duch tělu panoval; / v tom boji dej nám zvítězit.
+            </p>
+            <p class="stanza" id="13">
+                
+                5.
+                Tobě buď sláva, Ježíši, / jenž vítězně jsi z hrobu vstal, / i Otci, Duchu tvému též / nechť věčně zvučí píseň chval. / Amen.
+            </p>
+            <p>ŽALMY</p>
+
+<p><em>Antifona</em></p>
+
+<p><small>Mimo dobu velikonoční</small></p>
+            <p class="song"><img src="/images/songs/89-15.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p class="stanza" id="15">
+                
+                
+                Zastíní tě svými perutěmi / a nebudeš se bát nočních temnot.
+            </p>
+            <p><small>V době velikonoční</small></p>
+            <p class="song"><img src="/images/songs/89-17.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p class="stanza" id="17">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p><em>Žalm 91 (90): Pod ochranou Nejvyššího</em><br>
+<small>Hle, dávám vám moc kráčet po hadech a štírech (Lk 10,19)</small></p>
+            <p class="song"><img src="/images/songs/89-19.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p>Kdo žije pod ochranou Nejvyššího,&nbsp;*<br>
+&nbsp;přebývá v stínu Všemohoucího,<br>
+ať říká Pánu: Tys mé útočiště,&nbsp;*<br>
+&nbsp;můj hrad a Bůh můj, v nějž mám důvěru.</p>
+
+<p>Vždyť on tě zachraňuje z tenat lovců,&nbsp;*<br>
+&nbsp;před slovem, které zkázu přináší.<br>
+On zastíní tě svými perutěmi,&nbsp;*<br>
+&nbsp;pod jeho křídly dojdeš ochrany.<br>
+Nebudeš strachovat se nočních příšer&nbsp;*<br>
+&nbsp;a šípů, které za dne létají,<br>
+nákazy, která v temnotách se plíží,&nbsp;*<br>
+&nbsp;moru, jenž řádí za bílého dne.</p>
+
+<p>I když jich padne po tvém boku tisíc,&nbsp;*<br>
+&nbsp;ba deset tisíc po tvé pravici,<br>
+záhuba přesto tebe nedosáhne,&nbsp;*<br>
+&nbsp;vždyť jeho věrnost je tvůj kryt a štít.<br>
+Naopak, na své oči budeš vidět,&nbsp;*<br>
+&nbsp;spatříš, jak hříšné stíhá odplata.<br>
+Co ty však? Pán je tvoje útočiště,&nbsp;*<br>
+&nbsp;ty Nejvyššího vzal sis k ochraně.</p>
+
+<p>Proto nic zlého se ti nepřihodí,&nbsp;*<br>
+&nbsp;nepřijde žádná rána na tvůj stan.<br>
+Vždyť kvůli tobě andělům dal příkaz,&nbsp;*<br>
+&nbsp;na všech tvých cestách být ti ochránci.<br>
+A proto budou na rukou tě nosit,&nbsp;*<br>
+&nbsp;aby ses neporanil o kámen.<br>
+A budeš kráčet po hadech a štírech,&nbsp;*<br>
+&nbsp;a lva i draka klidně zašlápneš.</p>
+
+<p>Že je mi oddán, já ho vysvobodím,&nbsp;*<br>
+&nbsp;ochráním, že se k mému jménu zná.<br>
+Vyslyším ho, když mě bude vzývat,&nbsp;+<br>
+&nbsp;budu s ním v každém jeho soužení,&nbsp;*<br>
+&nbsp;zachráním ho a ke cti pozvednu.<br>
+Dosyta obdařím ho dlouhým věkem&nbsp;*<br>
+&nbsp;a svoji spásu mu dám uvidět.</p>
+
+<p>Sláva Otci i Synu i Duchu Svatému,&nbsp;*<br>
+&nbsp;jako byla na počátku, i nyní i vždycky,
+&nbsp;a na věky věků. Amen.</p>
+            <p><em>Antifona</em></p>
+
+<p>KRÁTKÉ ČTENÍ <em>(Zj 22,4&ndash;5)</em></p>
+
+<p>Budou hledět na tvář Páně a na čele budou mít jeho jméno. A noc už vůbec nebude, ani nebude třeba lampy nebo světla slunce: Pán Bůh je bude ozařovat a budou kralovat na věčné věky.</p>
+            <p>ZPĚV PO KRÁTKÉM ČTENÍ</p>
+
+<p><small>Mimo dobu velikonoční</small></p>
+            <p class="song"><img src="/images/songs/89-22.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p><strong>S L</strong> Do tvých rukou, Pane, svěřuji svůj život.<br>
+<strong>S</strong> Vykoupil jsi nás, Pane, věrný Bože.<br>
+<strong>L</strong> Svěřuji svůj život.<br>
+<strong>S</strong> Sláva Otci i Synu i Duchu Svatému.<br>
+<strong>L</strong> Do tvých rukou, Pane, svěřuji svůj život.</p>
+            <p><small>V době velikonoční</small></p>
+            <p class="song"><img src="/images/songs/89-24.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p><strong>S L</strong> Do tvých rukou, Pane, svěřuji svůj život. Aleluja, aleluja.<br>
+<strong>S</strong> Vykoupil jsi nás, Pane, věrný Bože.<br>
+<strong>L</strong> Aleluja, aleluja.<br>
+<strong>S</strong> Sláva Otci i Synu i Duchu Svatému.<br>
+<strong>L</strong> Do tvých rukou, Pane, svěřuji svůj život. Aleluja, aleluja.</p>
+            <p>EVANGELIJNÍ KANTIKUM</p>
+
+<p><em>Antifona</em></p>
+            <p class="song"><img src="/images/songs/89-26.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p>Ochraňuj nás, Pane, když bdíme, a buď s námi, když spíme,<br>
+ať bdíme s Kristem a odpočíváme v pokoji.</p>
+            <p><small>V době velikonoční se přidá</small></p>
+            <p class="song"><img src="/images/songs/89-28.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p class="stanza" id="28">
+                
+                
+                Aleluja, aleluja.
+            </p>
+            <p><em>Simeonovo kantikum – Lk 2,29–32</em><br>
+<small><em>Kristus – světlo národů a sláva Izraele</em></small></p>
+            <p class="song"><img src="/images/songs/89-30.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p>Nyní, Pane, můžeš propustit svého služebníka&nbsp;*<br>
+&nbsp;podle svého slova v pokoji,<br>
+neboť mé oči viděly tvou spásu,&nbsp;*<br>
+&nbsp;kterou jsi připravil mezi všemi národy:<br>
+světlo k osvícení pohanů&nbsp;*<br>
+&nbsp;a k slávě tvého izraelského lidu.<br>
+Sláva Otci i Synu i Duchu Svatému,&nbsp;*<br>
+&nbsp;jako byla na počátku, i nyní i vždycky,<br>
+&nbsp;a na věky věků. Amen.</p>
+
+<p><em>Antifona</em></p>
+            <p>ZÁVĚREČNÁ MODLITBA</p>
+
+<p><small>V neděli</small></p>
+            <p class="song"><img src="/images/songs/89-32.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p><strong>K</strong> Modleme se:<br>
+Pane, když jsme dnes svatým tajemstvím oslavili vzkříšení Páně, obracíme se na tebe s pokornou prosbou: daruj nám svůj pokoj a chraň náš odpočinek všeho zlého, ať radostně vstaneme k tvé chvále. Skrze Krista, našeho Pána.<br>
+<strong>L</strong> Amen.</p>
+            <p><small>Mimo neděli</small></p>
+
+<p><strong>K</strong> Prosíme tě, Pane, navštiv náš příbytek a ochraň nás před úklady nepřítele; nechť jsou s námi tvoji svatí andělé a chrání nás v pokoji a tvé požehnání buď stále s námi. Skrze Krista, našeho Pána.<br>
+<strong>L</strong> Amen.</p>
+            <p class="song"><img src="/images/songs/89-34.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p><strong>K</strong> Pokojnou noc a dosažení cíle nechť nám dopřeje všemohoucí Pán.<br>
+<strong>L</strong> Amen.</p>
+            <p>ZÁVĚREČNÁ MARIÁNSKÁ ANTIFONA</p>
+
+<p><small>Mimo dobu velikonoční</small></p>
+            <p class="song"><img src="/images/songs/89-36.png" alt="Noty k písni číslo 89&nbsp;&ndash; Modlitba před spaním" class="img-responsive"></p>
+            <p class="stanza" id="36">
+                
+                
+                Zdráva buď, Královno nebe, / zdrávas, andělé slaví tebe. / Zdrávas, Máti, zdrávas, bráno, / z níž je světu světlo dáno. / Plesej, Panno oslavená, / nade všechny vyvolená, / zdráva buď, lilie čistá: / přimlouvej se za nás u Krista.
+            </p>
+            <p><small>Nebo č. 007, 008, 815.<br>
+V době velikonoční č. 006, 407, 485.</small></p>
+
+
+            <hr>
+
+
+            <p><small>T: liturgie – N: J. Olejník 1975</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

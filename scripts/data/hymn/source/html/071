@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>071&nbsp;&ndash; Křížová cesta I. | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>071&nbsp;&ndash; Křížová cesta I.</h1>
+
+            <small>Pro soukromou pobožnost</small>
+
+<p>Pane Ježíši, tys řekl: Kdo chce za mnou přijít, zapři se, vezmi svůj kříž a následuj mě (Mt 16,24). Chci tě tedy provázet na tvé bolestné cestě, abych měl účast na milostech tvého utrpení a smrti. Lituji svých hříchů, pro které jsi zemřel v mukách na kříži. Mám upřímnou vůli varovat se hříchů a vždy věrně sloužit tobě.</p>
+
+<p>1. Pane Ježíši, ty ses dal z lásky ke mně odsoudit na smrt; dopřej mi té milosti, abych jednou s láskou a trpělivostí přijal smrt z tvých rukou.</p>
+
+<p>2. Pane Ježíši, tys dobrovolně vzal na sebe kříž; pomoz mi, abych svůj kříž a své utrpení zmužile nesl až do smrti.</p>
+
+<p>3. Pane Ježíši, pod tíhou kříže jsi klesal; odpusť mi, když z lidské slabosti upadnu do hříchu.</p>
+
+<p>4. Pane Ježíši, tys byl potěšen svou bolestnou matkou; dopřej mi, aby tvá matka i mě těšila a pomáhala mi v životě i ve smrti.</p>
+
+<p>5. Pane Ježíši, Šimon Cyrenský ti pomohl nést kříž; dej mi pravé přátele, kteří by mě neopustili v nouzi a v neštěstí.</p>
+
+<p>6. Pane Ježíši, tys do roušky svaté Veroniky vtiskl svou tvář; vtiskni mi do duše svůj obraz, abych se ti podobal.</p>
+
+<p>7. Pane Ježíši, padl jsi podruhé pod křížem; buď ke mně milosrdný, když opět upadnu do dřívějších chyb.</p>
+
+<p>8. Pane Ježíši, tys láskyplně napomínal plačící ženy; dej, abych také dovedl být láskyplný, když musím jiné napomínat.</p>
+
+<p>9. Pane Ježíši, tys na křížové cestě povstal i po třetím pádu; pozvedni mě, kdykoliv na strmé cestě do nebe zmalátním a klesnu.</p>
+
+<p>10. Pane Ježíši, ty jsi byl zbaven šatu; pomáhej mi, abych si vždycky zachoval čistotu a nikdy neztratil roucho milosti.</p>
+
+<p>11. Pane Ježíši, ty jsi byl přibit na kříž; dej, abych se nelekal utrpení, nýbrž chápal velikost oběti a sebezapírání.</p>
+
+<p>12. Pane Ježíši, obětoval ses na kříži za mě a za celý svět; dej, abych tobě žil, tobě umíral, tvůj byl navěky.</p>
+
+<p>13. Pane Ježíši, po sejmutí z kříže jsi spočíval na klíně své panenské matky: dej mi milost, abych tvé nejsvětější tělo s touhou a láskou přijímal do svého srdce.</p>
+
+<p>14. Pane Ježíši, tys byl uložen do hrobu a z něho jsi slavně vstal; dej, abych i já jednou vstal z hrobu k věčnému životu.</p>
+
+<p>Pane Ježíši Kriste, děkuji ti za tvé milosrdenství, které jsi mi na křížové cestě prokázal. Prosím, nedopouštěj, aby tvá krev byla pro mě vylita nadarmo a tvé umučení pro mou duši zmařeno. Neboť ty žiješ a kraluješ na věky věků. Amen.</p>
+
+
+            <hr>
+
+
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

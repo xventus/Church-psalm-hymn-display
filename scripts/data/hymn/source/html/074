@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>074&nbsp;&ndash; Křížová cesta IV. | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>074&nbsp;&ndash; Křížová cesta IV.</h1>
+
+            <p class="song"><img src="/images/songs/74-1.png" alt="Noty k písni číslo 74&nbsp;&ndash; Křížová cesta IV." class="img-responsive"></p>
+            <p class="stanza" id="1">
+                
+                1.
+                První zastavení věrně připomíná, / co vše způsobila naše těžká vina. / Člověk Boha soudí, Bůh to tiše snáší, / z hloubi srdce platí cenu spásy naší.
+            </p>
+            <p class="stanza" id="2">
+                
+                2.
+                Za hřích, jehož já jsem neuměl se zříci, / na smrt Pána vydal vladař nevěřící. / Nestačilo ani kruté zbičování, / pod břemenem kříže Kristus Pán se sklání.
+            </p>
+            <p class="stanza" id="3">
+                
+                3.
+                Neunese tíhu kříže potupného, / protože lpí na něm hříchy světa všeho. / Na kolena klesá za všechny, kdo hřeší, / za ně znovu vstává k pouti stále těžší.
+            </p>
+            <p class="stanza" id="4">
+                
+                4.
+                Ach, kdo změří bolest matky, která vidí / syna zmučeného tupou zlobou lidí! / Je to i mé záští, rouhání a pýcha, / pro něž matka svatá nad svým synem vzdychá.
+            </p>
+            <p class="stanza" id="5">
+                
+                5.
+                I když sám se katům Kristus neprotiví, / mají strach, že kříž svůj nedonese živý. / Šimona z Cyreny rázně přinutili / Pánu dopomoci k tajemnému cíli.
+            </p>
+            <p class="stanza" id="6">
+                
+                6.
+                Jiná duše vroucí, nikým nevolaná, / stírá krev a špínu z tváře Krista Pána. / Kéž jak Veronice v bílou roušku kdysi, / navždy nám Pán vtiskne do srdce své rysy.
+            </p>
+            <p class="stanza" id="7">
+                
+                7.
+                Opuštěný pastýř nevěrného stáda / v samé městské bráně znovu těžce padá, / za krutost a křivdy, za zrady a zlobu / i za tajné hříchy obílených hrobů.
+            </p>
+            <p class="stanza" id="8">
+                
+                8.
+                Nářek žen ho zdvíhá z trýznivého pádu, / Pastýř naposledy mluví k svému stádu: / Šetřte svoje slzy pro své vlastní viny, / plačte nad svým městem a nad svými syny.
+            </p>
+            <p class="stanza" id="9">
+                
+                9.
+                Cestu kamenitou Pán svou krví světí; / až pod samou horou stihne ho pád třetí. / Jenom láska Boží, jež nám zhynout nedá, / i při tomto pádu Krista opět zvedá.
+            </p>
+            <p class="stanza" id="10">
+                
+                10.
+                O vše oloupený hříšníky a katy, / ztrácí Pán i chudé, zkrvavené šaty. / Neskryje nás oděv prostý ani drahý: / jak se nahý zrodil, zemře člověk nahý.
+            </p>
+            <p class="stanza" id="11">
+                
+                11.
+                Na kmen sukovitý, oltář lásky Boží, / klade se Král světů se svým věncem z hloží. / Jeho údy svaté, proniknuté hřeby, / jsou most nad propastí, jenž nás vede k nebi.
+            </p>
+            <p class="stanza" id="12">
+                
+                12.
+                Ale dřív, než ten most šťastně překročíme, / pro náš věčný život Pán smrt časnou přijme; / když tvé první Ano, Matko, svatá Panno, / dozní v těžký povzdech: Již je dokonáno.
+            </p>
+            <p class="stanza" id="13">
+                
+                13.
+                Vše je dokonáno, matka nese břímě: / mrtvé tělo syna chová na svém klíně. / Všechny hříchy světa, všechnu jeho spásu / chová na kolenou do skonání časů.
+            </p>
+            <p class="stanza" id="14">
+                
+                14.
+                Ti, kdo za života při svém Pánu stáli, / mrtvé tělo nesou do kalvarské skály. / Za tu službu lásky, co mu prokázali, / brzy je oslaví Kristus zmrtvýchvstalý.
+            </p>
+
+
+            <hr>
+
+
+            <p><small>T: V. Renč 1969 – N: I. Hurník 1969</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

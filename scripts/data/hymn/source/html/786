@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>786&nbsp;&ndash; Vzpomínko sladká, Ježíši (Dulcis lesu memoria) | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>786&nbsp;&ndash; Vzpomínko sladká, Ježíši (Dulcis lesu memoria)</h1>
+
+            <p class="song"><img src="/images/songs/786-1.png" alt="Noty k písni číslo 786&nbsp;&ndash; Vzpomínko sladká, Ježíši (Dulcis lesu memoria)" class="img-responsive"></p>
+            <p class="stanza" id="1">
+                
+                1.
+                Vzpomínko sladká, Ježíši, / radosti srdci nejvyšší, / med však a všechno převýší / tvá blízkost, lásko nejčistší.
+            </p>
+            <p class="stanza" id="2">
+                
+                2.
+                Nic vroucnějšího nelze pět, / nic milejšího uslyšet, / nic vřelejšího pomyslet / než Ježíš, jenž je božství květ.
+            </p>
+            <p class="stanza" id="3">
+                
+                3.
+                Ježíši, srdci sladkosti, / zdroj pravdy, duší světlo jsi, / ty nade všechny radosti, / nad vroucí sny všech bytostí.
+            </p>
+            <p class="stanza" id="4">
+                
+                4.
+                Když v našem srdci přebýváš, / je světlem pravdy pronikáš, / pomíjí kouzlo klamných krás / a pravá láska plane z nás.
+            </p>
+            <p class="stanza" id="5">
+                
+                5.
+                Měj s námi velkou slitovnost, / uděl nám božské lásky ctnost, / ať skrze tvoji přítomnost / zříme tvé slávy velebnost.
+            </p>
+            <p class="stanza" id="6">
+                
+                6.
+                Pějem ti chvály s nadšením, / vždyť tys ten milý Boží Syn, / jejž Otec s Duchem vznešeným / ve slávě zjevil věrným svým. / Amen.
+            </p>
+            <p class="stanza" id="7">
+                
+                1.
+                Dulcis Iesu, memória, / dans vera cordis gáudia, / sed super mel et ómnia / eius dulcis praeséntia.
+            </p>
+            <p class="stanza" id="8">
+                
+                2.
+                Nil cánitur suávius, / audítur nil iucúndius, / nil cogitátur dúlcius, / quam Iesus Dei Fílius.
+            </p>
+            <p class="stanza" id="9">
+                
+                3.
+                Iesu, dulcédo córdium / fons veri, lumen méntium, / excédis omne gáudium / et omne desidérium.
+            </p>
+            <p class="stanza" id="10">
+                
+                4.
+                Quando cor nostrum vísitas, / tunc lucet ei véritas / mundi viléscit vánitas / et intus fervet cáritas.
+            </p>
+            <p class="stanza" id="11">
+                
+                5.
+                Da nobis largus véniam, / amóris tui cópiam; / da nobis per praeséntiam / tuam vidére glóriam.
+            </p>
+            <p class="stanza" id="12">
+                
+                6.
+                Laudes tibi nos pángimus, / diléctus es qui Fílius, / quem Patris atque Spiritus / splendor revélat ínclitus. / Amen.
+            </p>
+
+
+            <hr>
+
+            <p>
+                M<sub>1–5</sub>
+            </p>
+
+            <p><small>T: sv. Bernard († 1153) – N: chorál</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

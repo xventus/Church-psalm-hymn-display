@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>812&nbsp;&ndash; Tisíckráte pozdravujeme tebe | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>812&nbsp;&ndash; Tisíckráte pozdravujeme tebe</h1>
+
+            <p class="song"><img src="/images/songs/812-1.png" alt="Noty k písni číslo 812&nbsp;&ndash; Tisíckráte pozdravujeme tebe" class="img-responsive"></p>
+            <p class="stanza" id="1">
+                
+                1.
+                Tisíckráte pozdravujem tebe, / ó Matičko Krista Ježíše; / ty jsi krása veškerého nebe, / tobě celá říše koří se. / Ty jsi po Bohu ta nejprvnější, / tobě čest a chválu nejpřednější / andělé a svatí vzdávají, / královnou tebe nazývají.
+            </p>
+            <p class="stanza" id="2">
+                
+                2.
+                Přispěj také nám, ó Matko naše, / všichni vroucím srdcem žádáme. / Jediné tys útočiště naše, / po Bohu nad tebe nemáme. / Ať ti můžem chvály prozpěvovat / a tvé svaté jméno oslavovat; / tak, jak tobě patří po Bohu, / chceme tě chválit v každou dobu.
+            </p>
+            <p class="stanza" id="3">
+                
+                3.
+                Neboť Stvořitel nebe i země / za svůj stánek tebe vyvolil; / člověčenství naše přijal z tebe, / slávou matky své tě ozdobil. / Ježíš Kristus, Bůh a člověk pravý, / moudrost věčná, vládce věčné slávy, / hořké muky kříže podstoupil, / aby lidstvo všechno vykoupil.
+            </p>
+            <p class="stanza" id="4">
+                
+                4.
+                Na Siónu ty jsi utvrzená, / v městě sídlíš věčně blaženém; / dřív než bylas na svět narozená, / poctěná jsi v slovu prorockém. / Požíváš teď oné blaženosti, / připravené tobě od věčnosti / od dobroty Boha věčného, / Otce, Syna, Ducha svatého.
+            </p>
+            <p class="stanza" id="5">
+                
+                5.
+                Ó překrásná paní, na Libanu / jako cedr k nebi zvýšená, / jako cypřiš na hoře Siónu, / jako v Kades palma vznešená, / jako růže v Jerichu jsi krásná, / jako ranní denice jsi jasná, / oliva jsi krásná na poli, / javor u vod v tichém údolí.
+            </p>
+            <p class="stanza" id="6">
+                
+                6.
+                Lilie jsi ze všech nejkrásnější, / která dává vůni líbeznou; / ze všech květů ty jsi nejvzácnější, / občerstvuješ duši znavenou. / Před tvou krásou slunce, měsíc hasne, / Paní mocná nebes říše jasné, / ty jsi jistá brána nebeská, / blaho naše, radost andělská.
+            </p>
+            <p class="stanza" id="7">
+                
+                7.
+                Zdráva budiž, Panno nejslavnější, / Matko Páně neporušená, / Trojice jsi stánek nejsvětější, / od věčnosti Bohem zvolená. / Panno moudrá, schránko Boha vzácná, / na obloze duho velmi krásná, / Šalomouna křeslo vznešené, / Gedeona rouno zrosené.
+            </p>
+            <p class="stanza" id="8">
+                
+                8.
+                Kdo by mohl všechnu slávu tvoji / na tom světě ústy vyznati, / kterou Syn tvůj jen pro lásku svoji / ráčil tobě v nebi schystati. / Byť i všichni chválu tobě pěli, / jménem tvým zněl obor světa celý, / větším světlem plane sláva tvá / na nebesích, Matko Kristova.
+            </p>
+            <p class="stanza" id="9">
+                
+                9.
+                Před obrazem tvým, ó Matko Páně, / chceme prosby svoje skládati; / kéž nás chrání tvé mateřské rámě, / kdykoliv tě budem žádati. / V smutku světa, v nouzi, v těžkém kříži / k tobě srdce s důvěrou se blíží: / přímluvkyní buď nám na nebi, / pomocnicí v dobách potřeby.
+            </p>
+            <p class="stanza" id="10">
+                
+                10.
+                Vypros víru, naději a lásku, / světlo ctnosti v duši rozněcuj, / odvrať od nás hlad a mor a válku, / v bídě každé při nás věrně stůj. / Až pak Syn tvůj z žití pozemského / před trůn slávy své a soudu svého / duše naše bude volati, / tehdy, Matko, rač se zastati.
+            </p>
+
+
+            <hr>
+
+            <p>
+                M<sub>1 2 3</sub>
+            </p>
+
+            <p><small>Tx N: lidový, před r. 1800</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

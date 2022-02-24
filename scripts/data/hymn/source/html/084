@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>084&nbsp;&ndash; Nedělní nešpory | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>084&nbsp;&ndash; Nedělní nešpory</h1>
+
+            <p><em>Neděle I. týdne, mezidobí</em></p>
+
+<p>ÚVOD</p>
+            <p><strong>K</strong> Bože, shlédni a pomoz.<br>
+<strong>L</strong> Pane, pospěš mi pomáhat.<br>
+<strong>V</strong> Sláva Otci i Synu i Duchu Svatému,<br>
+jako byla na počátku, i nyní i vždycky<br>
+a na věky věků. Amen. Aleluja.</p>
+            <p>HYMNUS</p>
+            <p>Ó Tvůrce světla, předobrý,<br>
+tys ustanovil denní řád<br>
+a proudy světla rozhodil,<br>
+když světu základy jsi klad.</p>
+
+<p>A spojils ráno s večerem<br>
+a dnem tu dobu nazýváš:<br>
+hle, padá temné noci stín,<br>
+slyš prosbu, vyslyš nářek náš.</p>
+
+<p>Ach, nedej, by nás stihla smrt,<br>
+když svědomí nám tíží hřích,<br>
+když nemyslíme na věčnost<br>
+v té síti hříchů šalebných.</p>
+
+<p>Vzbuď naši touhu po nebi,<br>
+kde věčný život čeká nás.<br>
+A pomos odložit vše zlé<br>
+a smýt nám z duše každý kaz.</p>
+
+<p>To splň nám, dobrý Otče náš,<br>
+i Ty, jenž rovné božství máš,<br>
+i Duchu, který těšíš nás<br>
+a vládneš, Bože, v každý čas. Amen.</p>
+            <p>ŽALMY</p>
+
+<p><em>1. antifona</em></p>
+            <p class="stanza" id="6">
+                
+                
+                Žezlo moci podá ti ze Siónu sám Pán, a budeš kralovat navěky, aleluja.
+            </p>
+            <p><small><em>Žalm 110 (109), 1–5.7: Mesiáš – král a kněz</em><br>
+Musí totiž kralovat, dokud mu všichni jeho nepřátelé nebudou položeni k nohám (1 Kor 15,25).</small></p>
+            <p>Pán řekl <u>mé</u>mu Pánovi:&nbsp;*<br>
+&nbsp;Seď po <u>mé</u> pravici,<br>
+tvé nepřá<u>te</u>le za podnož&nbsp;*<br>
+&nbsp;k nohám <u>ti</u> položím.<br>
+Žezlo tvé moci podá ti sám <u>ze</u> Siónu Pán:&nbsp;*<br>
+&nbsp;Ty panuj vpro<u>střed</u> nepřátel!<br>
+Králem jsi <u>od</u> dne zrození&nbsp;*<br>
+&nbsp;na sva<u>tých</u> pahorcích,<br>
+z matčina <u>klí</u>na když se jas&nbsp;*<br>
+&nbsp;rozlil <u>tvých</u> mladých dnů.<br>
+Pán bez výhrady přísahal: jsi <u>kně</u>zem navěky,&nbsp;*<br>
+&nbsp;tak jak jím Mel<u>chi</u>zedech byl.<br>
+Pán stojí <u>po</u> tvé pravici,&nbsp;*<br>
+&nbsp;v den hněvu zdr<u>tí</u> krále.<br>
+Z potoka <u>pi</u>je u cesty&nbsp;*<br>
+&nbsp;a znova vzty<u>čí</u> hlavu.<br>
+Sláva <u>Ot</u>ci i Synu&nbsp;*<br>
+&nbsp;i Du<u>chu</u> Svatému,<br>
+jako byla na počátku, i <u>ny</u>ní i vždycky,&nbsp;*<br>
+&nbsp;a na věky vě<u>ků</u>. Amen.</p>
+            <p><em>1. antifona</em></p>
+
+<p><em>2. antifona</em></p>
+            <p class="stanza" id="10">
+                
+                
+                Před tváří Páně se zachvěla země, aleluja.
+            </p>
+            <p><small><em>Žalm 114 (113 A): Osvobození Izraele z Egypta</em><br>
+Chápejte: I vy jste vyšli z Egypta, když jste se zřekli tohoto světa (sv. Augustin).</small></p>
+            <p>Když vyšel Izrael <u>z egypt</u>ské země,&nbsp;*<br>
+&nbsp;Jákobův rod <u>z li</u>du cizího,<br>
+stal se jeho <u>svaty</u>ní Juda,&nbsp;*<br>
+&nbsp;Izrael <u>je</u>ho královstvím.<br>
+Moře to vidě<u>lo</u> a prchlo,&nbsp;*<br>
+&nbsp;Jordán obrátil <u>zpá</u>tky svůj tok.<br>
+Hory jak berani <u>poska</u>kovaly,&nbsp;*<br>
+&nbsp;pahorky <u>ja</u>ko jehňata.<br>
+Co je ti, moře, <u>že</u> tak prcháš?&nbsp;*<br>
+&nbsp;Proč se, Jordáne, <u>o</u>bracíš zpět?<br>
+Proč vy, jak berani <u>skáče</u>te, hory?&nbsp;*<br>
+&nbsp;pahorky, proč <u>vy</u> jak jehňata?<br>
+Zachvěj se, země, <u>před tvá</u>ří Páně,&nbsp;*<br>
+&nbsp;před tváří Boha <u>Já</u>kobova!<br>
+V jezerní bažinu <u>promě</u>ní skálu,&nbsp;*<br>
+&nbsp;křemen ve <u>vo</u>dní pramínek.<br>
+Sláva <u>Otci</u> i Synu&nbsp;*<br>
+&nbsp;i <u>Du</u>chu Svatému,<br>
+jako byla na počátku, i <u>nyní</u> i vždycky,&nbsp;*<br>
+&nbsp;a na věky <u>vě</u>ků. Amen.</p>
+            <p><em>2. antifona</em></p>
+            <p class="stanza" id="14">
+                
+                
+                Pán, náš všemohoucí Bůh, se ujal království, aleluja.
+            </p>
+            <p><em>3. antifona</em></p>
+
+<p><small><em>Kantikum – srovnej Zj 19,1–7: O Beránkově svatbě</em><br>
+Nezpívá-li se, může se <em>Aleluja</em> na konci lichých veršů vynechat a na konci sudých říkat jen jednou.</small></p>
+            <p><strong>S</strong> Aleluja. Vítězství, sláva a moc našemu Bohu.<br>
+<strong>L</strong> Aleluja.<br>
+<strong>S</strong> Neboť jeho soudy jsou pravdivé a spravedlivé.<br>
+<strong>L</strong> Aleluja, aleluja.<br>
+<strong>S</strong> Aleluja. Chvalte našeho Boha všichni, kdo mu sloužíte.<br>
+<strong>L</strong> Aleluja.<br>
+<strong>S</strong> A kdo se ho bojíte, malí i velcí.<br>
+<strong>L</strong> Aleluja, aleluja.<br>
+<strong>S</strong> Aleluja. Pán, náš Bůh vševládný, ujal se království.<br>
+<strong>L</strong> Aleluja.<br>
+<strong>S</strong> Radujme se, jásejme a vzdejme mu čest.<br>
+<strong>L</strong> Aleluja, aleluja.<br>
+<strong>S</strong> Aleluja. Neboť přišel čas Beránkovy svatby.<br>
+<strong>L</strong> Aleluja.<br>
+<strong>S</strong> A jeho nevěsta se připravila.<br>
+<strong>L</strong> Aleluja, aleluja.</p>
+            <p>KRÁTKÉ ČTENÍ <em>(2 Kor 1,3–4)</em></p>
+
+<p>Veleben budiž Bůh, Otec našeho Pána Ježíše Krista. Je to nejmilosrdnější Otec a Bůh, a od něho pochází všechna útěcha. Těší nás ve všech našich souženích, takže my pak jsme schopni potěšit druhé, ať jsou v jakémkoli soužení, jak Bůh potěšuje nás.</p>
+            <p>ZPĚV PO KRÁTKÉM ČTENÍ</p>
+            <p><strong>S L</strong> Požehnaný jsi, Pane, na nebeské obloze.<br>
+<strong>S</strong> Hodný chvály a slavný na věky.<br>
+<strong>L</strong> Na nebeské obloze.<br>
+<strong>S</strong> Sláva Otci i Synu i Duchu Svatému.<br>
+<strong>L</strong> Požehnaný jsi, Pane, na nebeské obloze.</p>
+            <p>EVANGELIJNÍ KANTIKUM</p>
+
+<p><em>Antifona</em></p>
+            <p class="stanza" id="21">
+                
+                
+                Velebí má duše Pána, neboť shlédl na svou nepatrnou služebnici.
+            </p>
+            <p><small><em>Kantikum Panny Marie – Lk 1,46–55: Radost duše v Pánu</em><br>
+Zpívá je <strong>S</strong>; <strong>L</strong> po každém verši opakuje zvolání:</small></p>
+            <p class="stanza" id="23">
+                
+                
+                Velebí má duše Pána.
+            </p>
+            <p><strong>S</strong> Velebí má du<u>še</u> Pána&nbsp;*<br>
+&nbsp;a můj duch plesá v Bohu, <u>mém</u> spasiteli,<br>
+že shlédl na svou nepatr<u>nou</u> služebnici:&nbsp;*<br>
+&nbsp;Hle, od této chvíle mě budou blahoslavit všech<u>na</u> pokolení,<br>
+že mi učinil veliké věci ten, který <u>je</u> mocný;&nbsp;*<br>
+&nbsp;jeho jméno <u>je</u> svaté<br>
+a jeho milosrdenství od pokolení do <u>po</u>kolení&nbsp;*<br>
+&nbsp;k těm, kdo se <u>ho</u> bojí.<br>
+Prokázal sílu <u>svým</u> ramenem,&nbsp;*<br>
+&nbsp;rozptýlil ty, kdo v srdci smýšle<u>jí</u> pyšně,<br>
+mocné svr<u>hl</u> z trůnu&nbsp;*<br>
+&nbsp;a poníže<u>né</u> povýšil,<br>
+hladové nasytil dobrý<u>mi</u> věcmi&nbsp;*<br>
+&nbsp;a bohaté propus<u>til</u> s prázdnou.<br>
+Ujal se svého služební<u>ka</u> Izraele,&nbsp;*<br>
+&nbsp;pamatoval na své mi<u>lo</u>srdenství,<br>
+jak slíbil na<u>šim</u> otcům,&nbsp;*<br>
+&nbsp;Abrahámovi a jeho potom<u>kům</u> navěky.<br>
+Sláva Otci <u>i</u> Synu&nbsp;*<br>
+&nbsp;i Du<u>chu</u> Svatému,<br>
+jako byla na počátku, i nyní <u>i</u> vždycky&nbsp;*<br>
+&nbsp;a na věky vě<u>ků</u>. Amen.</p>
+
+<p><small>Místo kantika Panny Marie se může zpívat píseň č. 813.</small></p>
+            <p><em>Antifona</em></p>
+            <p>PROSBY</p>
+            <p><strong>K</strong> Klaňme se v úctě Kristu Pánu, neboť on je naše hlava a my jsme jeho údy, a s radostí volejme:<br>
+<strong>L</strong> Pane, přijď tvé království!</p>
+            <p><strong>S</strong> Náš Spasiteli, učiň svou církev působivějším znamením jednoty lidského <u>ro</u>du<br>
+–&nbsp;a účinným tajemstvím spásy pro všechny <u>ná</u>rody.<br>
+<strong>L</strong> Pane…</p>
+            <p>Chraň ustavičně papeže a sbor <u>bis</u>kupů<br>
+–&nbsp;a uděl jim dar jednoty, lásky a <u>po</u>koje.<br>
+Dej, aby se křesťané spojili s tebou, božskou hlavou <u>círk</u>ve,<br>
+–&nbsp;aby svědectvím života šířili tvé <u>krá</u>lovství.<br>
+Uděl <u>svě</u>tu mír,<br>
+–&nbsp;aby všude kvetl pokoj a <u>bez</u>pečnost.<br>
+Uveď zesnulé do slávy <u>vzkří</u>šení<br>
+–&nbsp;a dej i nám s nimi podíl <u>ve</u> slávě.</p>
+
+<p>Otče náš…</p>
+            <p><strong>K</strong> Všemohoucí Bože, opatruj nás – svůj lid – otcovskou láskou; a protože nemáme oporu jinde než v naději na tvou milost, chraň nás stále svou mocí. Skrze tvého Syna Ježíše Krista, našeho Pána, neboť on s tebou v jednotě Ducha Svatého žije a kraluje po všechny věky věků.<br>
+<strong>L</strong> Amen.</p>
+            <p>ZÁVĚR</p>
+            <p><strong>S</strong> Pán nám žehnej, ode všeho zlého nás ochraňuj a doveď do věčného života.<br>
+<strong>L</strong> Amen.</p>
+            <p><small>Je-li přítomen kněz nebo jáhen:</small></p>
+            <p><strong>K</strong> Pán s vámi.<br>
+<strong>L</strong> I s tebou.<br>
+<strong>K</strong> Požehnej vás všemohoucí Bůh, Otec i Syn i Duch Svatý.<br>
+<strong>L</strong> Amen.<br>
+<strong>K</strong> Jděte v pokoji.<br>
+<strong>L</strong> Bohu díky.</p>
+
+
+            <hr>
+
+
+            <p><small>T: liturgie – N: Zd. Pololáník 1975</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>839&nbsp;&ndash; K oltáři Páně | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>839&nbsp;&ndash; K oltáři Páně</h1>
+
+            <p class="song"><img src="/images/songs/839-1.png" alt="Noty k písni číslo 839&nbsp;&ndash; K oltáři Páně" class="img-responsive"></p>
+            <p class="stanza" id="1">
+                <em class="stanza-section">Vstup</em><br>
+                
+                1.
+                K oltáři Páně plni touhy spějme, / k Ježíše Krista drahé oběti; / z hloubi své duše Hospodinu pějme, / k nebes ať výši duch náš zaletí! / Tobě, ó Bože, z vin se vyznáváme, / na milost přijmi dítky zbloudilé. / Patrone svatý, jehož v nebi máme, [: oroduj za nás, svatý Cyrile. :]
+            </p>
+            <p class="stanza" id="2">
+                
+                2.
+                Ó budiž chvála Hospodinu vzdána, / lidem buď mír, když dobré vůle jsou, / nebeská všem je otevřena brána, / plní kdo víry cestou Páně jdou. / Vzdávej svým otcům díky neustálé / za světlo víry, vděčný národe, / aby nám jasně zářilo i dále, [: oroduj za nás, svatý Metode. :]
+            </p>
+            <p class="stanza" id="3">
+                <em class="stanza-section">Před evangeliem</em><br>
+                
+                3.
+                Věříme v Boha, Otce všemocného, / v Ježíše Krista stejné podstaty, / spolu též v Ducha, dárce milostného, / v němžto je poklad pravdy bohatý. / Statečně chceme při své víře státi, / pilně se chránit cesty nepravé, / s dědicem svatým život za ni dáti, [: oroduj za nás, svatý Václave. :]
+            </p>
+            <p class="stanza" id="4">
+                <em class="stanza-section">Obětní průvod</em><br>
+                
+                4.
+                Chleba a víno darem tobě nesem / podle tvé vůle, Pane na nebi; / tobě se v oběť dává země s plesem, / jméno tvé svatá církev velebí. / Pastýře, otce dal jsi vlasti naší, / v něm po věky má národ útěchu, / k němu se prosba vzhůru k nebi vznáší: [: oroduj za nás, svatý Vojtěchu. :]
+            </p>
+            <p class="stanza" id="5">
+                
+                5.
+                Zapějme Pánu vroucně píseň slávy, / k nám se již blíží nyní na oltář, / nebesa nebes Krále svého zdraví, / andělé před ním kloní svoji tvář. / S nimi tam skví se jako hvězda krásná, / z které všem světlo lásky zářilo, / národa matka, mučednice jasná: [: oroduj za nás, svatá Ludmilo. :]
+            </p>
+            <p class="stanza" id="6">
+                <em class="stanza-section">Přijímání</em><br>
+                
+                6.
+                Beránku Boží, který snímáš viny / celého světa, jejž jsi vykoupil, / pohlédni na nás, na své hříšné syny, / zlého nás zbav a ve všem dobrém sil. / Světcové naši, kteří v nebi dlíte, / před Božím trůnem, slyšte národ svůj: / Chraňte nás, svatý Prokope a Víte, [: Anežko svatá, za nás oroduj. :]
+            </p>
+            <p class="stanza" id="7">
+                
+                7.
+                Požehnán budiž, který jménem Páně / přicházíš z nebe, plný milosti, / ó kéž se hostem duše naší staneš, / pramenem spásy, čistých radostí. / Tys byl i silou svého kněze Jana, / že povinnosti svoje nezradil. / Kéž je i nám ta velká milost dána, [: kéž nebe máme s Janem za podíl. :]
+            </p>
+            <p class="stanza" id="8">
+                <em class="stanza-section">Závěr</em><br>
+                
+                8.
+                Dej, Bože věčný, nám své požehnání, / veď v míru národ, jenž tě velebí, / slyš slova přímluv od těch, kdo nás chrání, / nám připravují místo na nebi. / Jsou z našich rodů, naší věčnou slávou, / kráčeli zemí, po níž jdeme my. / S pomocí jejich najdem cestu pravou [: tam, kde se sejdem s nimi se všemi. :]
+            </p>
+
+
+            <hr>
+
+            <p>
+                M
+            </p>
+
+            <p><small>Tx: Vl. Šťastný († 1910) – N: J. C. Sychra († 1935)</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>838&nbsp;&ndash; Svatým bratřím chvály znějí | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>838&nbsp;&ndash; Svatým bratřím chvály znějí</h1>
+
+            <p class="song"><img src="/images/songs/838-1.png" alt="Noty k písni číslo 838&nbsp;&ndash; Svatým bratřím chvály znějí" class="img-responsive"></p>
+            <p class="stanza" id="1">
+                
+                1.
+                Svatým bratřím chvály znějí, / Cyrilu a Metoději. / Naši zemi, úhor spící, / proměnili ve vinici. / Tam, kde člověk Bohem hoří, / nový řád Duch Svatý tvoří. / Vzdělávejte dál a zas / církev, národ, celou vlast.
+            </p>
+            <p class="stanza" id="2">
+                
+                2.
+                Sestro mocná přímluvami, / svatá Ludmilo, buď s námi! / Zní hlas, volá, výzvu nese / do všech věků: Proměňte se! / Ty jsi prošla křtem té změny, / ne však národ zaslepený. / Dnes a v každém století / zraje plod tvé oběti. 
+            </p>
+            <p class="stanza" id="3">
+                
+                3.
+                Svatý Václave, náš kníže, / rozmnožil jsi slávu kříže. / Nejsilnější pán a vládce / je ten, kdo je silný v lásce. / Tisíc let už tvoje vláda / tvářnost našich dějin spřádá. / Dej i nám, ať s Ježíšem / na život a na smrt jdem.
+            </p>
+            <p class="stanza" id="4">
+                
+                4.
+                Pastýř věrný v službách Otce, / biskup Vojtěch, zná své ovce. / Vlastním lidem zapuzený, / ohněm zkoušek vytříbený / učí nás, jak s křížem dojít, / všechno snést i krev svou prolít. / Vede národ znavený / k jedinému Prameni.
+            </p>
+            <p class="stanza" id="5">
+                
+                5.
+                Z našich světců Prokop prvý / Krista neoslavil krví. / V hloubi lesů u Sázavy / objevuje poklad pravý. / Boží pramen v tichu prýští, / hasí žízeň v dobách příštích. / Za dědictví bohaté / díky, svatý opate.
+            </p>
+            <p class="stanza" id="6">
+                
+                6.
+                Zdislavo, ty paní chudých, / květe vzrostlý z naší půdy, / ženo soucitná a zbožná, / kéž tvou pomoc národ pozná. / Uč nás slyšet v každém bližním / Kristův hlas, jenž volá: Žízním! / Pomoz matkám, manželkám / stavět z rodin živý chrám.
+            </p>
+            <p class="stanza" id="7">
+                
+                7.
+                Dík a prosba stále živá / sestru Anežku dnes vzývá. / Perla královského rodu / rozhodla se pro chudobu. / U Vltavy klášter staví, / službou chudým Krista slaví. / Cestou smíru, pokoje / se svým lidem putuje.
+            </p>
+            <p class="stanza" id="8">
+                
+                8.
+                Svatá Hedviko, buď zdráva, / památka tvá nepřestává. / Kněžnou jsi i kajícnicí, / manželkou i řeholnicí. / Hříchy doby, v níž jsi žila, / tvoje víra převážila. / I dnes v církvi pomoz všem / uznat vzácný podíl žen.
+            </p>
+            <p class="stanza" id="9">
+                
+                9.
+                Ježíš mezi apoštoly / bratrů dvojice si volí. / S Vojtěchem, svým bratrem svatým, / spěchá k pohanům i Radim. / Žije dílo Gorazdovo / i svědectví Hrozantovo. / Jim a bezejmenným všem / s celou církví děkujem.
+            </p>
+            <p class="stanza" id="10">
+                
+                10.
+                Otče hodný vděčné úcty, / svatý Jene Nepomucký! / Kněžské srdce, v Bohu stálé, / nepodlehne zvůli krále. / Muka tvého umírání / Ježíš mění v požehnání. / Kéž i dnešní bratři tví / najdou sílu k hrdinství.
+            </p>
+            <p class="stanza" id="11">
+                
+                11.
+                Díky Janu Sarkandrovi / za svědectví psané krví. / V dobách zmatků, tmy a svárů / obstál strážce Božích darů. / Vypros kněžím, otče Jene, / srdce pevné, nezlomené, / které bolest ani strach / neochromí ve zkouškách.
+            </p>
+            <p class="stanza" id="12">
+                
+                12.
+                Vděčně chválí církev celá / Klementa Hofbauera. / Dodnes žehná, prosí, tvoří, / světoběžník v službě Boží. / Duším, jež se v hříchu ztrácí, / zpovědník zas život vrací. / Uč nás dávat víc než brát, / celý národ Kristu vrať!
+            </p>
+            <p class="stanza" id="13">
+                
+                13.
+                Celý svět je Božím polem, / Pán chce všechny za svým stolem, / horstva ani oceány / setbě Slova nezabrání. / Z Čech do Ameriky míří / muž, jenž výzvy Boží šíří. / Ovoce tvé zůstane, / svatý Jene Neumanne.
+            </p>
+            <p class="stanza" id="14">
+                
+                14.
+                Světce Klimenta též ctíme, / papeže z dob rané církve, / jehož úctu v našem kraji / staletí nám předávají. / Ježíš přátelům svým věří, / klíče od nebe jim svěří. / Kliment za časů, kdy žil, / život za ně položil.
+            </p>
+            <p class="stanza" id="15">
+                
+                15.
+                Svatý Víte, mladý svědku, / známý rodům dávných předků, / cizí je tvůj kraj i doba, / neznámá je tvá podoba. / Přesto v Kristu, živém kmeni, / důvěrně jsme sjednoceni. / Svěřujem tvé ochraně / mládež v našem národě.
+            </p>
+            <p class="stanza" id="16">
+                
+                16.
+                Svatý Norbert dnes jak kdysi / ducha smíru v církvi křísí. / Slovy, činy oznamuje, / že jen Ježíš sjednocuje. / Z mnoha zrn se chleba stává, / z mnoha bratří církev pravá. / Kéž jsme kvasem jako ty / smíru, lásky, jednoty.
+            </p>
+
+
+            <hr>
+
+            <p>
+                M<sub>1</sub>
+            </p>
+
+            <p><small>T: redakce 1986 – N: Zd. Pololáník 1986</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

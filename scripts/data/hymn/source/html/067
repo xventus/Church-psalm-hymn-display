@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>067&nbsp;&ndash; Litanie loretánská | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>067&nbsp;&ndash; Litanie loretánská</h1>
+
+            <p>Pane, smiluj se. 2×<br>
+Kriste, smiluj se. 2×<br>
+Pane, smiluj se. 2×</p>
+
+<p>Bože, náš nebeský Otče, smiluj se nad námi.<br>
+Bože Synu, Vykupiteli světa, smiluj se nad námi.<br>
+Bože Duchu, svatý, smiluj se nad námi.<br>
+Bože v Trojici jediný, smiluj se nad námi.</p>
+
+<p>Svatá Maria, oroduj za nás.<br>
+Svatá Boží Rodičko, oroduj za nás.<br>
+Svatá Panno panen, oroduj za nás.<br>
+Matko Kristova, oroduj za nás.<br>
+Matko církve, oroduj za nás.<br>
+Matko božské milosti, oroduj za nás.<br>
+Matko nejčistší, oroduj za nás.<br>
+Matko nejcudnější, oroduj za nás.<br>
+Matko neporušená, oroduj za nás.<br>
+Matko neposkvrněná, oroduj za nás.<br>
+Matko láskyhodná, oroduj za nás.<br>
+Matko obdivuhodná, oroduj za nás.<br>
+Matko dobré rady, oroduj za nás.<br>
+Matko Stvořitelova, oroduj za nás.<br>
+Matko Spasitelova, oroduj za nás.</p>
+
+<p>Panno nejmoudřejší, oroduj za nás.<br>
+Panno úctyhodná, oroduj za nás.<br>
+Panno chvályhodná, oroduj za nás.<br>
+Panno mocná, oroduj za nás.<br>
+Panno dobrotivá, oroduj za nás.<br>
+Panno věrná, oroduj za nás.<br>
+Zrcadlo spravedlnosti, oroduj za nás.<br>
+Trůne moudrosti, oroduj za nás.<br>
+Příčino naší radosti, oroduj za nás.<br>
+Stánku Ducha svatého, oroduj za nás.<br>
+Stánku vyvolený, oroduj za nás.<br>
+Stánku zbožnosti, oroduj za nás.<br>
+Růže tajemná, oroduj za nás.<br>
+Věži Davidova, oroduj za nás.<br>
+Věži z kosti slonové, oroduj za nás.<br>
+Dome zlatý, oroduj za nás.<br>
+Archo úmluvy, oroduj za nás.<br>
+Bráno nebeská, oroduj za nás.<br>
+Hvězdo jitřní, oroduj za nás.<br>
+Uzdravení nemocných, oroduj za nás.<br>
+Útočiště hříšníků, oroduj za nás.<br>
+Těšitelko zarmoucených, oroduj za nás.<br>
+Pomocnice křesťanů, oroduj za nás.</p>
+
+<p>Královno andělů, oroduj za nás.<br>
+Královno patriarchů, oroduj za nás.<br>
+Královno proroků, oroduj za nás.<br>
+Královno apoštolů, oroduj za nás.<br>
+Královno mučedníků, oroduj za nás.<br>
+Královno vyznavačů, oroduj za nás.<br>
+Královno panen, oroduj za nás.<br>
+Královno všech svatých, oroduj za nás.<br>
+Královno počatá bez poskvrny hříchu dědičného, oroduj za nás.<br>
+Královno nanebevzatá, oroduj za nás.<br>
+Královno posvátného růžence, oroduj za nás.<br>
+Královno rodin, oroduj za nás.</p>
+Královno míru, oroduj za nás.</p>
+
+<p>Beránku Boží, který snímáš hříchy světa, smiluj se nad námi. 3×</p>
+
+<p><strong>K</strong> Oroduj za nás, svatá Boží Rodičko,<br>
+<strong>L</strong> aby nám Kristus dal účast na svých zaslíbeních.</p>
+<p><strong>K</strong> Modleme se: Všemohoucí, věčný Bože, dej nám, svým služebníkům, stálé zdraví duše i těla a na přímluvu Panny Marie obrať naše trápení v trvalou radost. Skrze Krista, našeho Pána.<br>
+<strong>L</strong> Amen.</p>
+
+<p><em>Závěr litanie podle liturgického roku</em></p>
+
+<p><small>V době adventní</small></p>
+<p><strong>K</strong> Anděl Páně zvěstoval Panně Marii<br>
+<strong>L</strong> a ona počala z Ducha svatého.</p>
+<p><strong>K</strong> Modleme se: Bože, tvé věčné Slovo se při andělově zvěstování stalo v lůně Panny Marie člověkem; vyslyš naše pokorné prosby a dej všem, kdo ji s vírou uctívají jako Bohorodičku, aby jim její přímluva u tebe stále pomáhala. Skrze Krista, našeho Pána.<br>
+<strong>L</strong> Amen.</p>
+
+<p><small>V době vánoční</small></p>
+<p><strong>K</strong> Po porodu, Panno, jsi zůstala neporušená.<br>
+<strong>L</strong> Svatá Boží Rodičko, přimlouvej se za nás.</p>
+<p><strong>K</strong> Modleme se: Bože, tys vyvolil blahoslavenou Pannu Marii za Matku Spasitele lidského pokolení; dej, ať poznáváme, že ta, která nám zrodila původce života, stále se za nás u něho přimlouvá. Neboť on s tebou žije a kraluje na věky věků.<br>
+<strong>L</strong> Amen.</p>
+
+<p><small>V době velikonoční</small></p>
+<p><strong>K</strong> Raduj se a plesej, Panno Maria, aleluja!<br>
+<strong>L</strong> Neboť Pán v pravdě z mrtvých vstal, aleluja!</p>
+<p><strong>K</strong> Modleme se: Bože, tvůj Syn, náš Pán Ježíš Kristus, vstal z mrtvých a naplnil svět radostnou nadějí na vzkříšení; prosíme tě, dej, ať v nás tato velikonoční radost stále roste, abychom tak jak jeho Matka, Panna Maria, a s její pomocí šťastně dosáhli plné radosti v nebi. Neboť on s tebou žije a kraluje na věky věků.<br>
+<strong>L</strong> Amen</p>
+
+
+            <hr>
+
+
+            <p><small>T: liturgie (15.–16. stol.) – N: P. Bubla (19. stol.)</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

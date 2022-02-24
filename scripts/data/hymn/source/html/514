@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>514&nbsp;&ndash; Hospodine, všech věcí Pane | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>514&nbsp;&ndash; Hospodine, všech věcí Pane</h1>
+
+            <p>Zpívá-li se tato píseň, nepoužívá se 3. způsob úkonu kajícnosti a vypouští se <em>Pane, smiluj se</em>.</p>
+            <p class="song"><img src="/images/songs/514-2.png" alt="Noty k písni číslo 514&nbsp;&ndash; Hospodine, všech věcí Pane" class="img-responsive"></p>
+            <p class="stanza" id="2">
+                <em class="stanza-section">Vstup</em><br>
+                
+                
+                Hospodine, všech věcí Pane, / tvůj lid prosí pokorně tebe / za smilování. / Kriste, Synu Boží, / věčná nejhubší Moudrosti, / sestup k nám z výsosti, / Králi žádoucí. / Hospodine, ó Duchu svatý, / Utěšiteli pravý, / navštiv nás svými dary. / Pane, smiluj se.
+            </p>
+            <p>Zpěv celé písně nahrazuje vlastní text <em>Sláva</em>.</p>
+            <p class="song"><img src="/images/songs/514-4.png" alt="Noty k písni číslo 514&nbsp;&ndash; Hospodine, všech věcí Pane" class="img-responsive"></p>
+            <p class="stanza" id="4">
+                <em class="stanza-section">Sláva</em><br>
+                
+                1.
+                Buď sláva Bohu na nebi / a pokoj lidem na zemi. / Chválíme, velebíme tě, / vzdáváme díky slávě tvé.
+            </p>
+            <p class="stanza" id="5">
+                
+                2.
+                Náš Pane, Králi nebeský, / Bože, Otče všemohoucí, / ty Synu jednorozený, / Ježíši Kriste nejvyšší.
+            </p>
+            <p class="stanza" id="6">
+                
+                3.
+                Beránku náš, jenž snímáš hřích, / smiluj se, prosby naše slyš. / Dlíš po Otcově pravici, / smiluj se, odpusť kajícím.
+            </p>
+            <p class="stanza" id="7">
+                
+                4.
+                Neboť ty jediný jsi Pán, / Svrchovaný a Svatý sám; / buď, Jezu Kriste, oslaven / s Otcem, Duchem věčně. Amen.
+            </p>
+            <p class="song"><img src="/images/songs/514-8.png" alt="Noty k písni číslo 514&nbsp;&ndash; Hospodine, všech věcí Pane" class="img-responsive"></p>
+            <p class="stanza" id="8">
+                <em class="stanza-section">Před evangeliem</em><br>
+                
+                1.
+                Chvála tobě, Bože náš, / všechnu propast pronikáš, / nad cheruby máš svůj stan, / ty jsi všeho tvorstva Pán.
+            </p>
+            <p class="stanza" id="9">
+                
+                2.
+                Nebe je tvé slávy stín, / ty jsi otců Hospodin. / Tobě země, světlo hvězd / vzdává věčně chválu, čest.
+            </p>
+            <p>Zpěv celé písně nahrazuje vlastní text <em>Věřím</em>.</p>
+            <p class="song"><img src="/images/songs/514-11.png" alt="Noty k písni číslo 514&nbsp;&ndash; Hospodine, všech věcí Pane" class="img-responsive"></p>
+            <p class="stanza" id="11">
+                <em class="stanza-section">Věřím</em><br>
+                
+                1.
+                Věřím v Boha jednoho, / Otce všemocného / V Ježíše Krista, jeho / Syna jediného; / z Panny narozeného / pro nás umučeného / pod Pontským Pilátem; / ukřižován umřel jest / a sestoupil do pekel; / třetí den vstal z mrtvých.
+            </p>
+            <p class="stanza" id="12">
+                
+                2.
+                Vstoupil do nebe, sedí / po pravici Otce; / odtud přijde souditi / všechny živé, mrtvé / Věřím v Ducha svatého, / svatou církev obecnou, / společenství svatých, / odpuštění hříchů všech, / těla z mrtvých vzkříšení, / život věčný. Amen.
+            </p>
+            <p class="song"><img src="/images/songs/514-13.png" alt="Noty k písni číslo 514&nbsp;&ndash; Hospodine, všech věcí Pane" class="img-responsive"></p>
+            <p class="stanza" id="13">
+                <em class="stanza-section">Obětní průvod</em><br>
+                
+                1.
+                Vzácná oběť se ti chystá, / Bože, Otče laskavý, / podle vůle Jezu Krista / kněz ti dary připraví. / Dary tvoje: chléb a víno; / obé bude proměněno, / jak to Syn tvůj pověděl, / dřív než za nás na smrt šel.
+            </p>
+            <p class="stanza" id="14">
+                
+                2.
+                Spolu nesem za dar tobě / city své i myšlení; / dej, ať srdce v každé době / chválou jména tvého zní. / Tobě žít a tobě sloužit, / po tobě vždy snažně toužit, / až se nám dáš za podíl, / nejvyšší náš nechť je cíl.
+            </p>
+            <p>Zpěv písně nahrazuje vlastní text <em>Svatý</em>.</p>
+            <p class="song"><img src="/images/songs/514-16.png" alt="Noty k písni číslo 514&nbsp;&ndash; Hospodine, všech věcí Pane" class="img-responsive"></p>
+            <p class="stanza" id="16">
+                <em class="stanza-section">Svatý</em><br>
+                
+                
+                Nejmocnější / Bože Otče, vždycky svatý. / Nejmoudřejší Synu Boží svatý. / Nejdobrotivější Těšiteli, v darech hojný, / původce pravdy, Duchu svatý. / Hospodin jsi, Bůh zástupů. / Plná jsou nebesa, i všechna země / tvé cti, slávy; / blaze je tomu, kdo tě chválí. / Požehnaný, Jezu Kriste dobrý, / prosebné hlasy v nebi jsi slyšel, / v smrtelném těle na svět jsi přišel / k spáse tvorů svých.
+            </p>
+            <p>Zpěv písně nahrazuje vlastní text <em>Beránku</em>.</p>
+            <p class="song"><img src="/images/songs/514-18.png" alt="Noty k písni číslo 514&nbsp;&ndash; Hospodine, všech věcí Pane" class="img-responsive"></p>
+            <p class="stanza" id="18">
+                <em class="stanza-section">Beránku</em><br>
+                
+                1.
+                Beránku tichý, který snímáš hříchy, / Pane Ježíši, / pohlédni na nás, smiluj se, spas nás, / křesťanskou říši.
+            </p>
+            <p class="stanza" id="19">
+                
+                2.
+                Beránku, Kriste, dárce spásy jisté, / Pane Bože náš, / v slávě a moci roven jsi Otci, / život všem dáváš.
+            </p>
+            <p class="stanza" id="20">
+                
+                3.
+                Beránku Kriste, synu Panny čisté, / Králi nebeský, / prosíme všichni: Nyní i vždycky / chraň lid svůj český.
+            </p>
+            <p class="song"><img src="/images/songs/514-21.png" alt="Noty k písni číslo 514&nbsp;&ndash; Hospodine, všech věcí Pane" class="img-responsive"></p>
+            <p class="stanza" id="21">
+                <em class="stanza-section">Přijímání</em><br>
+                
+                1.
+                Veselte se, věřící, milost se vám stala. / láska věčně blažící hod vám uchystala. / V přetajemné svátosti nebes Pán se blíží, / plesej, srdce, radostí, Bůh se k tobě sníží. / Kyrie, eleison.
+            </p>
+            <p class="stanza" id="22">
+                
+                2.
+                Pozdraveno buď, tělo Pána Jezu Krista, / které v sobě nemělo bez bolestí místa. / Ale již oslavené oplýváš radostí, / nyní jsi představené nám v této svátosti. / Kyrie, eleison.
+            </p>
+            <p class="stanza" id="23">
+                
+                3.
+                Vítej, krvi předrahá Krista Pána mého, / která byla vylitá v umučení jeho. / On v den svého vzkříšení s tělem spojil tě zas, / v kterém bez rozdělení již věčně zůstat máš. / Kyrie, eleison.
+            </p>
+            <p class="stanza" id="24">
+                
+                4.
+                Vítej, Spasiteli náš, milý Pane Kriste, / jenž se v svátosti skrýváš v přítomnosti jisté. / My se tobě klaníme se vší uctivostí, / dopomoz nám, prosíme, do věčné radosti. / Kyrie, eleison.
+            </p>
+            <p class="song"><img src="/images/songs/514-25.png" alt="Noty k písni číslo 514&nbsp;&ndash; Hospodine, všech věcí Pane" class="img-responsive"></p>
+            <p class="stanza" id="25">
+                <em class="stanza-section">Závěr</em><br>
+                
+                1.
+                Pane Bože, buď při nás na vezdejší pouti / a v hodině poslední nedej zahynouti. / Podle viny nesuď nás, Pane Jezu Kriste, / v slávu nebes uveď nás, v místo spásy jisté. / Aleluja zpívejme, svého Pána chvalme, / dej, ať s tebou v nebesích, Kriste, přebýváme. / Kyrieleison, Kristeleison, Kriste, smiluj se nad námi.
+            </p>
+            <p class="stanza" id="26">
+                
+                2.
+                Mocná nebes Královno, rač nás v lásce míti, / přímluvkyní laskavou nám u Boha býti. / Vypros nám, ó Maria, matko Páně čistá, / milost syna božského, Pána Jezu Krista! / Aleluja zpívejme Králi, synu tvému, / bychom věčně vzdávali chválu jeho jménu. / Kyrieleison, Kristeleison, Kriste, smiluj se nad námi.
+            </p>
+            <p class="stanza" id="27">
+                
+                3.
+                Všichni svatí, pomozte, proste Krále svého, / aby lid svůj pozemský zbavil všeho zlého, / nad námi se smiloval, odpustil nám viny, / v slávu věčnou uvedl věrné svoje syny. / Aleluja zpívejme Králi nebeskému, / by nás ráčil připsati v ráji k sboru svému. / Kyrieleison, Kristeleison, Kriste, smiluj se nad námi.
+            </p>
+
+
+            <hr>
+
+            <p>
+                M
+            </p>
+
+            <p><small>Tx Nx: ČK 1921, podle pramenů 14.-19. stol.</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

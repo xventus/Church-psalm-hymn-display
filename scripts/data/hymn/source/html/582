@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>582&nbsp;&ndash; Druhé ordinárium J. Olejníka | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>582&nbsp;&ndash; Druhé ordinárium J. Olejníka</h1>
+
+            <p class="song"><img src="/images/songs/582-1.png" alt="Noty k písni číslo 582&nbsp;&ndash; Druhé ordinárium J. Olejníka" class="img-responsive"></p>
+            <p>
+<strong>S:</strong> Pane, smiluj se.<br>
+<strong>L:</strong> Pane, smiluj se.<br>
+<strong>V:</strong> Pane, smiluj se.
+</p>
+
+<p>
+<strong>S:</strong> Kriste, smiluj se.<br>
+<strong>L:</strong> Kriste, smiluj se.<br>
+<strong>V:</strong> Kriste, smiluj se.
+</p>
+
+<p>
+<strong>S:</strong> Pane, smiluj se.<br>
+<strong>L:</strong> Pane, smiluj se.<br>
+<strong>V:</strong> Pane, smiluj se.
+</p>
+            <p class="song"><img src="/images/songs/582-2.png" alt="Noty k písni číslo 582&nbsp;&ndash; Druhé ordinárium J. Olejníka" class="img-responsive"></p>
+            <p>
+<strong>K:</strong> Sláva na výsostech Bohu<br>
+<strong>S:</strong> a na zemi pokoj lidem dobré vůle.<br>
+<strong>L:</strong> Chválíme tě.<br>
+<strong>S:</strong> Velebíme tě.<br>
+<strong>L:</strong> Klaníme se ti.<br>
+<strong>S:</strong> Oslavujeme tě.<br>
+<strong>L:</strong> Vzdáváme ti díky pro tvou velikou slávu.<br>
+<strong>S:</strong> Pane a Bože, nebeský Králi, Bože, Otče všemohoucí.<br>
+<strong>L:</strong> Pane, jednorozený Synu, Ježíši Kriste.<br>
+<strong>S:</strong> Pane a Bože, Beránku Boží, Synu Otce.<br>
+<strong>L:</strong> Ty, který snímáš hříchy světa, smiluj se nad námi.<br>
+<strong>S:</strong> Ty, který snímáš hříchy světa, přijmi naše prosby.<br>
+<strong>L:</strong> Ty, který sedíš po pravici Otce, smiluj se nad námi.<br>
+<strong>S:</strong> Neboť ty jediný jsi svatý.<br>
+<strong>L:</strong> Ty jediný jsi Pán.<br>
+<strong>S:</strong> Ty jediný jsi svrchovaný, Ježíši Kriste,<br>
+<strong>L:</strong> se Svatým Duchem, ve slávě Boha Otce.<br>
+<strong>V:</strong> Amen.
+</p>
+            <p class="song"><img src="/images/songs/582-3.png" alt="Noty k písni číslo 582&nbsp;&ndash; Druhé ordinárium J. Olejníka" class="img-responsive"></p>
+            <p>
+<strong>K:</strong> Věřím v jednoho Boha,<br>
+<strong>S:</strong> Otce všemohoucího, Stvořitele nebe i země, všeho viditelného i neviditelného.<br>
+<strong>L:</strong> Věřím v jednoho Pána Ježíše Krista, jednorozeného Syna Božího,<br>
+<strong>S:</strong> který se zrodil z Otce přede všemi věky.<br>
+<strong>L:</strong> Bůh z Boha, Světlo ze Světla, pravý Bůh z pravého Boha,<br>
+<strong>S:</strong> zrozený, nestvořený, jedné podstaty s Otcem: skrze něho všechno je stvořeno.<br>
+<strong>L:</strong> On pro nás lidi a pro naši spásu sestoupil z nebe.<br>
+<strong>S:</strong> Skrze Ducha Svatého přijal tělo z Marie Panny a stal se člověkem.<br>
+<strong>L:</strong> Byl za nás ukřižován, za dnů Poncia Piláta byl umučen a pohřben.<br>
+<strong>S:</strong> Třetího dne vstal z mrtvých podle Písma.<br>
+<strong>L:</strong> Vstoupil do nebe, sedí po pravici Otce.<br>
+<strong>S:</strong> A znovu přijde ve slávě soudit živé i mrtvé a jeho království bude bez konce.<br>
+<strong>L:</strong> Věřím v Ducha Svatého, Pána a dárce života, který z Otce i Syna vychází,<br>
+<strong>S:</strong> s Otcem i Synem je zároveň uctíván a oslavován a mluvil ústy proroků.<br>
+<strong>L:</strong> Věřím v jednu, svatou, všeobecnou, apoštolskou církev.<br>
+<strong>S:</strong> Vyznávám jeden křest na odpuštění hříchů.<br>
+<strong>L:</strong> Očekávám vzkříšení mrtvých,<br>
+<strong>S:</strong> a život budoucího věku.<br>
+<strong>V:</strong> Amen.
+</p>
+
+<p>
+<small><em>Svatý</em> zpívá lid celé nebo se střídá se scholou</small>
+</p>
+            <p class="song"><img src="/images/songs/582-4.png" alt="Noty k písni číslo 582&nbsp;&ndash; Druhé ordinárium J. Olejníka" class="img-responsive"></p>
+            <p>
+<strong>S:</strong> Svatý,<br>
+<strong>L:</strong> Svatý,<br>
+<strong>V:</strong> Svatý Pán, Bůh zástupů.<br>
+<strong>S:</strong> Nebe i země jsou plny tvé slávy.<br>
+<strong>V:</strong> Hosana na výsostech.<br>
+<strong>S:</strong> Požehnaný, jenž přichází ve jménu Páně.<br>
+<strong>V:</strong> Hosana na výsostech.
+</p>
+
+<p>
+<small><em>Beránku Boží</em> zpívá lid celé nebo střídavě se scholou</small>
+</p>
+            <p class="song"><img src="/images/songs/582-5.png" alt="Noty k písni číslo 582&nbsp;&ndash; Druhé ordinárium J. Olejníka" class="img-responsive"></p>
+            <p>
+<strong>S:</strong> Beránku Boží, který snímáš hříchy světa,<br>
+<strong>L:</strong> smiluj se nad námi.<br>
+<strong>S:</strong> Beránku Boží, který snímáš hříchy světa,<br>
+<strong>L:</strong> smiluj se nad námi.<br>
+<strong>S:</strong> Beránku Boží, který snímáš hříchy světa,<br>
+<strong>V:</strong> daruj nám pokoj.
+</p>
+
+
+            <hr>
+
+
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

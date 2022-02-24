@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>411&nbsp;&ndash; Aleluja. Zazpívej, církvi (O filii) | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>411&nbsp;&ndash; Aleluja. Zazpívej, církvi (O filii)</h1>
+
+            <p class="song"><img src="/images/songs/411-1.png" alt="Noty k písni číslo 411&nbsp;&ndash; Aleluja. Zazpívej, církvi (O filii)" class="img-responsive"></p>
+            <p class="stanza" id="1">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p class="stanza" id="2">
+                
+                1.
+                Zazpívej, církvi, píseň chval, / Ježíš, náš vítěz; slávy Král, / dnes ráno z hrobu vzkříšen vstal, aleluja.
+            </p>
+            <p class="stanza" id="3">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p class="stanza" id="4">
+                
+                2.
+                Třetího dne za svítání / zří přátelé Ježíšovi, / tentam je kámen hrobový, aleluja.
+            </p>
+            <p class="stanza" id="5">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p class="stanza" id="6">
+                
+                3.
+                A Magdalena Marie / a Jákoba a Salome / uctít šly tělo pohřbené, aleluja.
+            </p>
+            <p class="stanza" id="7">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p class="stanza" id="8">
+                
+                4.
+                Tam v bílém rouchu anděl stál / a zprávu hned jim zvěstoval, / do Galileje Pán je zval, aleluja.
+            </p>
+            <p class="stanza" id="9">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p class="stanza" id="10">
+                
+                5.
+                A přítel Páně svatý Jan / i Petra cestou předbíhal, / před prázdným hrobem v skále stál, aleluja.
+            </p>
+            <p class="stanza" id="11">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p class="stanza" id="12">
+                
+                6.
+                Pak vzkříšený a živý Pán / sbor přátel svých navštívil sám, / zdraví je slovy: Pokoj vám! Aleluja.
+            </p>
+            <p class="stanza" id="13">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p class="stanza" id="14">
+                
+                7.
+                Tam scházel Tomáš učedník, / odmítá zprávě uvěřit, / Ježíš i jemu dal se zřít, aleluja.
+            </p>
+            <p class="stanza" id="15">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p class="stanza" id="16">
+                
+                8.
+                Hle údy mé, Tomáši, viz, / nezdráhej se a přistup blíž, / na rány mé si sáhnout smíš, aleluja.
+            </p>
+            <p class="stanza" id="17">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p class="stanza" id="18">
+                
+                9.
+                Již Tomáš Pána poznává, / otvírá k chvále ústa svá: / můj Pán a Bůh můj, vyznává, aleluja.
+            </p>
+            <p class="stanza" id="19">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p class="stanza" id="20">
+                
+                10.
+                Jsou blažení, kdo uvěří, / co pouhým okem neuzří, / těm království mé náleží, aleluja. 
+            </p>
+            <p class="stanza" id="21">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p class="stanza" id="22">
+                
+                11.
+                Ve svátky Páně vzkříšení / vzdej chválu všechno stvoření, / Ježíši, dárci spasení, aleluja.
+            </p>
+            <p class="stanza" id="23">
+                
+                
+                Aleluja, aleluja, aleluja.
+            </p>
+            <p class="stanza" id="24">
+                
+                12.
+                Zajásej, církvi, písněmi, / ať Bohu v nebi, na zemi / zpěv díkůvzdání stále zní, aleluja.
+            </p>
+            <p class="stanza" id="25">
+                
+                
+                Allelúia, allelúia, allelúia.
+            </p>
+            <p class="stanza" id="26">
+                
+                1.
+                O fílii et fíliae, / Rex caeléstis, Rex glóriae, / morte surréxit hódie. Allelúia.
+            </p>
+            <p class="stanza" id="27">
+                
+                
+                Allelúia, allelúia, allelúia.
+            </p>
+            <p class="stanza" id="28">
+                
+                2.
+                Et mane prima sábbati, / ad óstium monuménti / accessérunt discípuli. Allelúia.
+            </p>
+            <p class="stanza" id="29">
+                
+                
+                Allelúia, allelúia, allelúia.
+            </p>
+            <p class="stanza" id="30">
+                
+                3.
+                Et María Magdaléne, / et Jacóbi, et Salóme, / venérunt corpus úngere. Allelúia.
+            </p>
+            <p class="stanza" id="31">
+                
+                
+                Allelúia, allelúia, allelúia.
+            </p>
+            <p class="stanza" id="32">
+                
+                4.
+                In albis sedens Angelus, / praedíxit muliéribus: / In Galilaéa est Dóminus. Allelúia.
+            </p>
+            <p class="stanza" id="33">
+                
+                
+                Allelúia, allelúia, allelúia.
+            </p>
+            <p class="stanza" id="34">
+                
+                5.
+                Et Joánnes Apóstolus / cucúrrit Petro cítius, / monuménto venit prius. Allelúia.
+            </p>
+            <p class="stanza" id="35">
+                
+                
+                Allelúia, allelúia, allelúia.
+            </p>
+            <p class="stanza" id="36">
+                
+                6.
+                Discípulis adstántibus, / in médio stetit Christus, / dicens: Pax vobis ómnibus. Allelúia.
+            </p>
+            <p class="stanza" id="37">
+                
+                
+                Allelúia, allelúia, allelúia.
+            </p>
+            <p class="stanza" id="38">
+                
+                7.
+                Ut intelléxit Dídymus, / quia surréxerat Jesus, / remánsit fere dúbius. Allelúia.
+            </p>
+            <p class="stanza" id="39">
+                
+                
+                Allelúia, allelúia, allelúia.
+            </p>
+            <p class="stanza" id="40">
+                
+                8.
+                Vide, Thoma, vide latus, / vide pedes, vide manus, / noli esse incrédulus. Allelúia.
+            </p>
+            <p class="stanza" id="41">
+                
+                
+                Allelúia, allelúia, allelúia.
+            </p>
+            <p class="stanza" id="42">
+                
+                9.
+                Quando Thoma Christi latus, / pedes vidit atque manus, / dixit: Tu es Deus meus. Allelúia.
+            </p>
+            <p class="stanza" id="43">
+                
+                
+                Allelúia, allelúia, allelúia.
+            </p>
+            <p class="stanza" id="44">
+                
+                10.
+                Beáti qui non vidérunt, / et fírmiter credidérunt, / vítam aetérnam habébunt. Allelúia.
+            </p>
+            <p class="stanza" id="45">
+                
+                
+                Allelúia, allelúia, allelúia.
+            </p>
+            <p class="stanza" id="46">
+                
+                11.
+                In hoc festo sanctíssimo / sit laus et iubilátio, / BENEDICAMUS DOMINO. Allelúia.
+            </p>
+            <p class="stanza" id="47">
+                
+                
+                Allelúia, allelúia, allelúia.
+            </p>
+            <p class="stanza" id="48">
+                
+                12.
+                Ex quibus nos humílimas / devótas atque débitas / DEO dicámus GRATIAS. Allelúia.
+            </p>
+
+
+            <hr>
+
+            <p>
+                M<sub>1 2 3</sub>
+            </p>
+
+            <p><small>T: J. Tisserand († 1494) – N: Francie 15. stol.</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

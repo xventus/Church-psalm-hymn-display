@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>073&nbsp;&ndash; Křížová cesta III. | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>073&nbsp;&ndash; Křížová cesta III.</h1>
+
+            <p class="song"><img src="/images/songs/73-1.png" alt="Noty k písni číslo 73&nbsp;&ndash; Křížová cesta III." class="img-responsive"></p>
+            <p class="stanza" id="1">
+                
+                
+                Rozjímej, křesťane, o smrti Kristově, / v lásce jej provázej na cestě křížové! / Pán tvůj a Bůh, Beránek nevinný, / na smrt jde za tebe, Boží Syn jediný.
+            </p>
+            <p><em>Úvodní modlitba</em></p>
+
+<p>Chceme tě, Pane, doprovázet na tvé bolestné cestě od domu Pilátova až k hrobu. Otevři naše srdce, abychom v rozjímání pochopili, že tys nesl tíži našich hříchů a skrze svou smrt vykoupil svět. Nauč nás, abychom tě následovali zde na světě a jednou s tebou žili na věky věků. Amen.</p>
+
+<p><em>1. Ježíš souzen</em></p>
+            <p class="stanza" id="3">
+                
+                
+                Kristus Pán v zahradě vydal se v ruce zlých, / na smrt byl odsouzen od soudců nepravých. / Kaifášův soud i Pilát potvrdil, / Pán se mu podvolil, aby hřích světa smyl.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Třicet let žil mezi lidmi nepoznán. Krátký čas vystupoval jako hlasatel Boží. Znali jej učení i prostí, mocní i ubozí, hříšníci i ti, kteří se pokládali za dokonalé. Vždycky mezi lidmi, a přece jiný než ostatní. Ustavičně se s nimi střetával, byl pozorován a souzen.
+Nyní se s nimi střetává naposled před Pilátem. Před očima všech. Za jejich souhlasu je odsouzen.
+</p>
+
+<p>
+Vyvolil jsi nás, Pane, abychom ti vydávali svědectví. Žijeme na světě mezi ostatními lidmi: v práci, zábavě, při odpočinku. Nemůžeme se vyhnout střetávání se světem.
+Dej nám sílu a pokoru, abychom byli podobni tobě, i když jsme souzeni.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>2. Ježíš přijímá kříž</em></p>
+            <p class="stanza" id="5">
+                
+                
+                Kříž je už připraven, Král slávy chce jej nést, / by na něm zahladil svou krví věčný trest. / Ježíš, náš Pán, v pokoře klade již / na svoje ramena bolestnou kříže tíž.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Před Pilátem stojí Syn Boží, který se proto narodil a proto přišel na svět, aby vydal svědectví pravdě. Pilát jej posměšně odbude: Co je pravda? Kolikrát řekl v tomto soudním procesu: Žádné viny na něm nenalézám! A přece jej vydal na smrt kříže.
+</p>
+
+<p>
+Jak je to pohodlné, nehledat pravdu, jak je to lehké, nevidět nespravedlnost, když se nás to netýká! Pane, ty jsi nesl kříž pro pravdu a spravedlnost. Dej nám sílu vždycky stát v pravdě a hledat spravedlnost.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>3. Ježíš padá pod křížem poprvé</em></p>
+            <p class="stanza" id="7">
+                
+                
+                Zemdlen a vysílen, do krve zbičován, / ponížen, potupen na horu kráčí Pán. / Přetěžký kříž Pán tichý věrně nes', / až pod tím břemenem poprvé k zemi kles'.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Je vysílený nočním bděním, ranami, chvěje se horečkou. Tak vykročil na svou cestu k smrti. V úzké ulici s hrbolatou dlažbou se potácí s křížem uprostřed davů. Klopýtne a padá. Ale vzchopí se, aby pokračoval v cestě.
+</p>
+
+<p>
+Vyvolil jsi nás, Pane, abychom nesli tvé jméno ve světě. Nikdy jsi nám nesliboval pohodlnou a snadnou cestu. Dej, abychom nesli toto vyvolení ve víře a nadějí a pochopili, že jenom v lásce bude tvé břímě lehké a tvé jho sladké.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>4. Ježíš se potkává se svou matkou</em></p>
+            <p class="stanza" id="9">
+                
+                
+                Z prachu Pán povstává, dál s křížem klopýtá, / matka jej potkává slzami zalitá: / Hle, její syn, hle, dítě jediné / jde na smrt potupnou v přetěžké hodině.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Třicet let žila matka v jeho blízkosti. Když odešel z Nazareta, aby plnil poslání Otcovo, sledovala každý jeho krok. Od samého začátku cítila, že nemůže proniknout tajemství života svého syna, Boha a člověka. A přece je s ním i v této chvíli jeho oběti, aby přinesla útěchu svému a Božímu Synu.
+</p>
+
+<p>
+Putujeme životem, obtíženi svou slabostí a obklopeni lhostejným nebo i nepřátelským světem, který se zavírá poselství Božímu. A přece nejsme sami. Maria, matko naše, dej nám pociťovat vždycky útěchu své přítomnosti.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>5. Šimon pomáhá nést kříž</em></p>
+            <p class="stanza" id="11">
+                
+                
+                Když Pán byl vyčerpán, smrtelně znavený, / přivedli člověka, Šimona z Cyreny, / aby vzal kříž na svoje rameno / a Pánu pomohl nést těžké břemeno.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Blíží se poledne. Slunce rozpaluje vzduch i kameny v ulici naplněné zástupem lidí. Jak je ten kříž těžký! Do tohoto shluku se dostane muž; vrací se domů z pole zpocený, zaprášený a unavený. Šimon se vzpírá, nechce se mu pomáhat. Vojáci ho přinutí. I za tuto neochotnou pomoc bude jméno Šimona z Cyreny vzpomínáno do konce časů.
+</p>
+
+<p>
+Dej, Pane, abychom viděli všechno dobro, které je kolem nás. Mnohdy je nevidí ani ti, kteří je konají. Jsou bezděčnými a nevědomými dělníky na stavbě tvého království.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>6. Veronika podává Ježíšovi roušku</em></p>
+            <p class="stanza" id="13">
+                
+                
+                Krev s potem smíšená řine se bohatě / po čele Kristově, po tváři přesvaté. / Tu jedna z žen roušku mu podává, / do ní se otiskne tvář Páně krvavá.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Tradice vypráví o dobrém skutku Veroniky. Křesťanská zbožnost nemůže zapomenout na tento skutek soucitu a lásky uprostřed bezcitnosti křížové cesty.
+</p>
+
+<p>
+Tvé království, Pane, není z tohoto světa, a přece je na tomto světě. Nedej, abychom se ponořovali do neskutečných snů, ale dej, abychom pochopili, že tady, mezi obyčejnými lidmi, máme každodenně vydávat svědectví o své lásce.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>7. Ježíš padá pod křížem podruhé</em></p>
+            <p class="stanza" id="15">
+                
+                
+                Ach, jak je daleký křížové cesty cíl / pro tělo zmučené, v němž není více sil. / Podruhé Pán do prachu poklesá, / bolestí chvějí se země i nebesa.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Ježíš se potácí dál. Přichází na něj nová vlna slabosti, zhroutí se.
+</p>
+
+<p>
+Jsme v zajetí lidské slabosti. Přicházejí na nás chvíle ochablosti a malomyslnosti. Nedej, Pane, abychom se jim poddávali.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>8. Jeruzalémské ženy pláčou nad Ježíšem</em></p>
+            <p class="stanza" id="17">
+                
+                
+                Ženy, jenž za Kristem z města se vydaly, / patříce na něho, žalostně plakaly. / Volá k nim Pán: Neplačte nade mnou, / raději zaplačte nad syny, nad sebou!
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Skupina žen hlasitě lituje trpícího odsouzence a pláče nad ním. Ale sotva přejde průvod, vrátí se k svým malicherným zájmům a nestarají se dál o jeho osud.
+</p>
+
+<p>
+Dal jsi nám, Pane, veliké povolání: Máme na tomto světě a v tomto čase rozsévat semeno tvého království. Dej, abychom zůstali věrní tomuto povolání, nezůstali jenom na povrchu a nedostali se do zajetí prostřednosti.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>9. Ježíš padá pod křížem potřetí</em></p>
+            <p class="stanza" id="19">
+                
+                
+                Až k smrti utýrán, přichází k hoře blíž, / tam, kde ho čekají muky a hořký kříž. / Na pouti své k přesvaté oběti / zmučený Spasitel padá už potřetí.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Ježíš padá potřetí. Jeho síly jsou vyčerpány. Leží na zemi a těžce oddychuje.
+</p>
+
+<p>
+Přicházejí okamžiky, kdy na nás jako těžký balvan dopadne pocit neúspěchu, marnosti, vlastní zbytečnosti. Nedej, Pane, abychom uvázli v takových temných chvílích. Víme, že všechno je v tvých rukách a nebudeš nás vážit podle našich úspěchů nebo neúspěchů, ale podle věrnosti a lásky, s níž jsme šli za tebou.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>10. Z Ježíše strhávají oděv</em></p>
+            <p class="stanza" id="21">
+                
+                
+                Na hoře Golgotě roucho mu odňali, / bez citu, bez úcty v posměch ho vydali. / Náš svatý Pán na smrt již připraven, / hrubému zástupu na odiv postaven.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Syna Božího vyvedli za město jako zločince. Strhávají z něho šaty, obnovují všechny rány, ze kterých znovu teče krev. A tak tu stojí, vystaven posměchu bezcitného davu.
+</p>
+
+<p>
+Chtěl jsi, Pane, aby tě svět poznával prostřednictvím lidí, skrze nás. Máme zvěstovat tvou pravdu, tvou lásku a přinášet světu tvůj pokoj. Děláme to? Nejsme ti spíše k hanbě?
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>11. Ježíš ukřižován</em></p>
+            <p class="stanza" id="23">
+                
+                
+                Přetěžká chvíle již Ježíši nastává, / ruce i nohy své k mučení podává. / Ozvěny ran nesou se oblohou, / jak hřeby vrážejí do rukou, do nohou.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Vykopali jámu a vztyčili kříž. Jako když se sází strom. Netušili, že zasazují strom života.
+</p>
+
+<p>
+Před lidmi jsi, Pane, prohrál: byl jsi odmítnut, odsouzen a zabit. A přece jsi zvítězil. Nedopusť, abychom vždycky chtěli před lidmi jen vítězit a mít úspěch.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>12. Ježíš na kříži umírá</em></p>
+            <p class="stanza" id="25">
+                
+                
+                Na kříži v bolu pní do třetí hodiny, / modlí se za všechny z golgotské výšiny. / Do rukou tvých poroučím duši svou, / zvolá a dokončí pouť svoji pozemskou.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Nikdo nikdy nepronikne, co se dělo v duši toho, který byl Bohem a člověkem, když přišel poslední okamžik a Ježíš zvolal: Bože můj, Bože můj, proč jsi mě opustil!
+</p>
+
+<p>
+Chtěl jsi, Pane, prožít lidský úděl až do dna. V smrtelném zápasu jsi svolil, abys byl podroben nejstrašnější osamocenosti. Nedej, abychom propadali temnotám zoufalství. Podepři nás svou útěchou ve chvílích opuštěnosti.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>13. Ježíš sňat z kříže</em></p>
+            <p class="stanza" id="27">
+                
+                
+                Pro náš hřích katané to tělo zmučili / a matce na klín je přátelé složili. / Množství těch ran Maria sčítala, / slzami omyla, vroucně je líbala.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+V tichém podvečeru snímají přátelé Ježíšovi jeho mrtvé tělo z kříže a kladou je na klín jeho matce. Ta tiše a v odevzdání hledí na probodené srdce, na zbičované a rozedrané tělo.
+</p>
+
+<p>
+Kéž se, Pane, vždycky vracíme k této pravdě: Jenom z tebe, z tvých ran, z tvé oběti vychází spása pro nás a pro celý svět.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>14. Ježíš položen do hrobu</em></p>
+            <p class="stanza" id="29">
+                
+                
+                Mrtvého Ježíše k pohřbu připravili / a plátny čistými uctivě ovili. / Ve skalní hrob jej s pláčem pohřbili / a přístup ke hrobu kamenem zakryli.
+            </p>
+            <p>
+<strong>K</strong> Klaníme se ti, Pane Ježíši Kriste, a děkujeme ti,<br>
+<strong>L</strong> neboť svým křížem jsi vykoupil svět.
+</p>
+
+<p>
+Mrtvé tělo uctivě položili do hrobu a vstup zavalili kamenem. Přišli mocní tohoto světa, postavili k hrobu stráže a dali na kámen své pečetě. Spokojeně odešli. Tím pro ně skončil případ Ježíš Nazaretský.
+</p>
+
+<p>
+Všichni jsme pod pečetí smrti. Také podoba světa a věcí, jak je vidíme, jednou pomine. Jenom ty, Pane, první ze všech a jeden z nás, jsi vstal z hrobu a vešel do věčné skutečnosti. Naplň nás vírou, ať dovedeme vydávat svědectví, že přijdeš a že tvé království slávy a pokoje bude bez konce. Amen.
+</p>
+
+<p>
+<strong>K</strong> Smiluj se nad námi, Ježíši.<br>
+<strong>L</strong> Smiluj se nad námi.
+</p>
+
+<p><em>Závěr písně</em></p>
+            <p class="stanza" id="31">
+                
+                
+                Díky Ti vzdáváme, Pane náš nejdražší, / za dary, které nám láska tvá přináší. / Život a ráj, který už ztracen byl, / svou smrtí na kříži lidem jsi navrátil.
+            </p>
+            <p class="stanza" id="32">
+                
+                
+                Ježíši v Svátosti, my v tebe věříme, / s úctou a vděčností tobě se koříme. / Pro svatý kříž, pro smrt a bolest svou / smiluj se, Ježíši, nad duší kajícnou.
+            </p>
+            <p><em>Závěrečná modlitba</em></p>
+
+<p>
+Doprovázeli jsme tě, Pane, na tvé křížové cestě a dospěli jsme s tebou až k hrobu. Víme, že jsi z hrobu vstal a vešel do své slávy. Posilni naši víru a naději, abychom očekávali tvůj příchod a jednou v lásce měli účast na tvém království, které trvá na věky věků. Amen. </p>
+
+
+            <hr>
+
+
+            <p><small>Tx: KSJ 1863 – N: J. Hlucháň 1935</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

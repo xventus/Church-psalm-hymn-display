@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>069&nbsp;&ndash; Litanie ke svatým ochráncům naší vlasti | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>069&nbsp;&ndash; Litanie ke svatým ochráncům naší vlasti</h1>
+
+            <p><strong>K</strong> Pane, smiluj se.<br>
+<strong>L</strong> Pane, smiluj se.<br>
+<strong>K</strong> Kriste, smiluj se.<br>
+<strong>L</strong> Kriste, smiluj se.<br>
+<strong>K</strong> Pane, smiluj se.<br>
+<strong>L</strong> Pane, smiluj se.</p>
+
+<p>Bože, náš nebeský Otče, smiluj se nad námi.<br>
+Bože Synu, Vykupiteli světa, smiluj se nad námi.<br>
+Bože Duchu Svatý, smiluj se nad námi.<br>
+Bože v Trojici jediný, smiluj se nad námi.</p>
+
+<p>Svatá Maria, oroduj za nás.<br>
+Svatý Josefe, oroduj za nás.<br>
+Svatý Cyrile a Metoději, orodujte za nás.<br>
+Svatý Gorazde, oroduj za nás.<br>
+Svatý Klimente, oroduj za nás.<br>
+Svatá Ludmilo, oroduj za nás.<br>
+Svatý Václave, oroduj za nás.<br>
+Svatý Víte, oroduj za nás.<br>
+Svatý Vojtěchu, oroduj za nás.<br>
+Svatý Radime, oroduj za nás.<br>
+Svatý Prokope, oroduj za nás.<br>
+Svatá Zdislavo, oroduj za nás.<br>
+Svatá Anežko, oroduj za nás.<br>
+Svatá Hedviko, oroduj za nás.<br>
+Svatý Norberte, oroduj za nás.<br>
+Blahoslavený Hroznato, oroduj za nás.<br>
+Svatý Jene Nepomucký, oroduj za nás.<br>
+Svatý Jene Sarkandře, oroduj za nás.<br>
+Svatý Klemente Dvořáku, oroduj za nás.<br>
+Svatý Jene Neumanne, oroduj za nás.<br>
+Všichni svatí ochráncové naší vlasti, orodujte za nás.<br>
+Všichni svatí a světice Boží, orodujte za nás.</p>
+
+<p>Milostiv nám buď, vysvoboď nás, Pane.<br>
+Od všeho zlého, vysvoboď nás, Pane.<br>
+Od pohrdání zděděnou vírou, vysvoboď nás, Pane.<br>
+Od zkázy naší mládeže, vysvoboď nás, Pane.<br>
+Od nesvornosti, nenávisti a zlé vůle, vysvoboď nás, Pane.<br>
+Od zatvrzelosti srdce, vysvoboď nás, Pane.<br>
+Od náboženské lhostejnosti, vysvoboď nás, Pane.<br>
+Od nesvárů a rozvratů v rodinách, vysvoboď nás, Pane.<br>
+Od nedostatku apoštolských kněží, vysvoboď nás, Pane.<br>
+Od občanské a náboženské nesnášenlivosti, vysvoboď nás, Pane.<br>
+Od zoufalství v těžkých chvílích života, vysvoboď nás, Pane.<br>
+Od náhlé a nekající smrti, vysvoboď nás, Pane.<br>
+Od pomluv a nespravedlivého podezírání, vysvoboď nás, Pane.</p>
+
+<p>My hříšníci, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu Panny Marie Boha milovali, prosíme tě, vyslyš nás.<br>
+Abychom se na přímluvu svatého Josefa radovali z povznesení matky církve v naší vlasti, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatých Cyrila a Metoděje byli věrně oddaní apoštolskému stolci, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatého Gorazda byli horlivými apoštoly svých bližních, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatého Klimenta zachovali vždy věrnost matce církví, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svaté Ludmily posvěcovali rodiny křesťanskou zbožností, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatého Václava dosáhli víru a pokoje v naší zemi, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatého Víta zvítězili nad pokušením, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatého Vojtěcha byli vedeni ke Kristu dobrými kněžími, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatého Radima prokazovali každému dobro, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatého Prokopa vždy přemohli ďábelské pokušení, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svaté Zdislavy vzorně vychovávali děti v rodinách, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svaté Anežky nesli trpělivě svůj kříž, prosíme tě, vyslyš nás.<br>
+Abychom se na přímluvu svaté Hedviky uchránili rodinných nesvárů, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatého Norberta zbožně přijímali a uctívali eucharistického Krista, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu blahoslaveného Hroznaty byli vždy spravedliví a štědří, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatého Jana Nepomuckého nehřešili jazykem, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatého Jana Sarkandra neohroženě vyznávali víru, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatého Klementa Dvořáka vynikali křesťanskou láskou, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu svatého Jana Neumanna měli dostatek kněžského a řeholního dorostu, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu našich svatých ochránců dospěli z vlasti pozemské do vlasti nebeské, prosíme tě, vyslyš nás.<br>
+Abychom na přímluvu všech svatých vždy plnili vůli Boží, prosíme tě, vyslyš nás.</p>
+
+<p><strong>K</strong> Beránku Boží, který snímáš hříchy světa,<br>
+<strong>L</strong> smiluj se nad námi. 3×</p>
+<p><strong>K</strong> Orodujte za nás, naši svatí ochráncové,<br>
+<strong>L</strong> aby nám Kristus dal účast na svých zaslíbeních.</p>
+<p><strong>K</strong> Modleme se: Prosíme tě, Pane, ochraňuj nás pro slavné zásluhy našich svatých ochránců, abychom zůstali vždy věrní církvi a vlasti a po tomto životě dosáhli jejich společenství v nebi. Skrze Krista, našeho Pána.<br>
+<strong>L</strong> Amen.</p>
+
+
+            <hr>
+
+
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>085A&nbsp;&ndash; Mariánské nešpory | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>085A&nbsp;&ndash; Mariánské nešpory</h1>
+
+            <p>ÚVOD</p>
+            <p><strong>K</strong> Bože, shlédni a pomoz.<br>
+<strong>L</strong> Pane, pospěš mi pomáhat.<br>
+Sláva Otci i Synu i Duchu Svatému,<br>
+jako byla na počátku, i nyní i vždycky<br>
+a na věky věků. Amen. Aleluja.</p>
+            <p>HYMNUS</p>
+            <p class="stanza" id="4">
+                
+                1.
+                Zdrávas, hvězdo moří, / živitelko Boží, / ustavičná Panno, / blahá nebes bráno!
+            </p>
+            <p class="stanza" id="5">
+                
+                2.
+                Ave tobě pěla / ústa Gabriela; / mír nám vlej, když jméno / Eva zpět je čteno.
+            </p>
+            <p class="stanza" id="6">
+                
+                3.
+                Rozvaž pouta viny, / slepoty vzdal stíny, / zbav nás všeho zlého, / zdroj buď dobra všeho.
+            </p>
+            <p class="stanza" id="7">
+                
+                4.
+                Ukaž nám, žes Matka; / prosba tvá je sladká / sluchu Syna tvého, / pro nás zrozeného.
+            </p>
+            <p class="stanza" id="8">
+                
+                5.
+                Panno požehnaná, / milosti jsi schrána; / změň nás v prosté viny, / v tiché, čisté syny!
+            </p>
+            <p class="stanza" id="9">
+                
+                6.
+                Dopřej nám žít čistě, / ať kráčíme jistě / k tobě, do tvé říše, / patřit na Ježíše.
+            </p>
+            <p class="stanza" id="10">
+                
+                7.
+                Ctěme Boha Otce, / chvalme Boha Syna, / slavme Boha Ducha: / třem buď pocta jedna. / Amen.
+            </p>
+            <p>ŽALMY</p>
+
+<p><em>1. antifona</em></p>
+
+<p><small>(Aleluja se k antifonám přidává v době velikonoční)</small></p>
+            <p class="stanza" id="12">
+                
+                
+                Zdrávas, Maria, / milosti plná, / Pán s tebou. / (Aleluja)
+            </p>
+            <p><em>Žalm 122 (121)</em></p>
+            <p>Zaradoval jsem se, když mi <u>řek</u>li:&nbsp;*<br>
+&nbsp;Vydáme se do Pá<u>no</u>va domu.<br>
+Už se naše nohy zasta<u>vi</u>ly,&nbsp;*<br>
+&nbsp;Jeruzaléme, v tvých <u>slav</u>ných branách.<br>
+Jeruzaléme, jsi vybu<u>do</u>ván&nbsp;*<br>
+&nbsp;v pevné město, v sebe <u>u</u>zavřené.<br>
+Putují sem kmeny, kmeny Pá<u>ně</u>;&nbsp;†<br>
+&nbsp;tak to káže Izraeli <u>zá</u>kon,&nbsp;*<br>
+&nbsp;aby jméno Páně <u>o</u>slavoval.<br>
+Zde jsou postaveny soudní <u>stol</u>ce,&nbsp;*<br>
+&nbsp;pevné stolce Davi<u>do</u>va domu.<br>
+Pokoj vyproste pro Jeru<u>za</u>lém:&nbsp;*<br>
+&nbsp;Ať jsou v bezpečí, kdo <u>mi</u>lují tě!<br>
+Ať v tvých hradbách rozhostí se <u>po</u>koj&nbsp;*<br>
+&nbsp;a v tvých domech bezpe<u>čí</u> ať trvá!<br>
+Pro blaho svých bratří a svých <u>přá</u>tel&nbsp;*<br>
+&nbsp;stále budu říkat: <u>Po</u>koj v tobě!<br>
+Pro dům Pána, jenž je naším <u>Bo</u>hem,&nbsp;*<br>
+&nbsp;za tvůj zdar se stále <u>bu</u>du modlit.<br>
+Sláva Otci i <u>Sy</u>nu&nbsp;*<br>
+&nbsp;i <u>Du</u>chu Svatému,<br>
+jako byla na počátku, i nyní i <u>vždyc</u>ky,&nbsp;*<br>
+&nbsp;a na věky <u>vě</u>ků. Amen.</p>
+            <p><em>1. antifona</em></p>
+
+<p><em>2. antifona</em></p>
+            <p class="stanza" id="16">
+                
+                
+                Hle, služebnice Páně: / kéž se mi stane / podle slova tvého. / (Aleluja)
+            </p>
+            <p><em>Žalm 127 (126)</em></p>
+            <p>Jestliže dům nebu<u>du</u>je Pán,&nbsp;*<br>
+&nbsp;lopotí se marně, <u>kdo</u> jej staví.<br>
+Jestliže město nestře<u>ží</u> sám Pán,&nbsp;*<br>
+&nbsp;hlídati je marně <u>bu</u>dou stráže.<br>
+Marno vám je vstá<u>vat</u> před ránem,&nbsp;*<br>
+&nbsp;pracovat až dlouho <u>do</u> večera,<br>
+pak až do noci jí<u>dat</u> krušný chléb:&nbsp;*<br>
+&nbsp;sám ho dá i za spán<u>ku</u> svým milým.<br>
+Hle, jsou darem Pá<u>ně</u> synové,&nbsp;*<br>
+&nbsp;jeho vzácnou odmě<u>nou</u> plod lůna.<br>
+Čím jsou šípy ru<u>ce</u> bojovné,&nbsp;*<br>
+&nbsp;tím jsou otci syno<u>vé</u> z let mládí.<br>
+Šťasten, kdo jich pl<u>ný</u> toulec má:&nbsp;*<br>
+&nbsp;sporem v bráně sok ho <u>ne</u>zahanbí.<br>
+Sláva Otci <u>i</u> Synu&nbsp;*<br>
+&nbsp;i <u>Du</u>chu Svatému,<br>
+jako byla na počátku, i nyní <u>i</u> vždycky,&nbsp;*<br>
+&nbsp;a na věky <u>vě</u>ků. Amen.</p>
+            <p><em>2. antifona</em></p>
+
+<p><em>3. antifona</em></p>
+            <p class="stanza" id="20">
+                
+                
+                Požehnaná ty mezi ženami / a požehnaný plod tvého lůna. / (Aleluja)
+            </p>
+            <p><em>Kantikum – Ef 1,3–10</em></p>
+            <p>Buď pochválen Bůh a Otec našeho Pána <u>Je</u>žíše Krista;&nbsp;*<br>
+&nbsp;on nás z nebe zahrnul všemi možnými duchovní<u>mi</u> dary;<br>
+vždyť v něm si nás vyvolil ještě před stvořením svě<u>ta</u>,&nbsp;†<br>
+&nbsp;abychom byli svatí a <u>ne</u>poskvrnění&nbsp;*<br>
+&nbsp;před <u>ním</u> v lásce;<br>
+podle svého svobodného rozhodnutí nás před<u>určil</u>,&nbsp;†<br>
+&nbsp;abychom skrze <u>Je</u>žíše Krista&nbsp;*<br>
+&nbsp;byli přijati za je<u>ho</u> syny,<br>
+ke chvále jeho božsky vznešené <u>do</u>brotivosti,&nbsp;*<br>
+&nbsp;kterou nám projevil svou lásku ve svém milova<u>ném</u> Synovi;<br>
+v něm máme vykoupení <u>skr</u>ze jeho krev,&nbsp;*<br>
+&nbsp;odpuště<u>ní</u> hříchů.<br>
+Podle bohatství své mil<u>osti</u>,&nbsp;†<br>
+&nbsp;kterou nám tak <u>ště</u>dře projevil&nbsp;*<br>
+&nbsp;s veškerou moudrostí a ro<u>zum</u>ností,<br>
+podle <u>své</u>ho úradku&nbsp;*<br>
+&nbsp;seznámil nás s tajemstvím <u>své</u> vůle:<br>
+že si <u>to</u>tiž předsevzal,&nbsp;*<br>
+&nbsp;až přijde pl<u>nost</u> času,<br>
+obnovit <u>v Kris</u>tu všechno,&nbsp;*<br>
+&nbsp;co je na nebi <u>a</u> na zemi.<br>
+Sláva <u>O</u>tci i Synu&nbsp;*<br>
+&nbsp;i Du<u>chu</u> Svatému,<br>
+jako byla na počátku, i <u>ny</u>ní i vždycky,&nbsp;*<br>
+&nbsp;a na věky vě<u>ků</u>. Amen.</p>
+            <p><em>3. antifona</em></p>
+
+<p>KRÁTKÉ ČTENÍ <em>(Gal 4,4–5)</em></p>
+
+<p>Když přišla plnost času, poslal Bůh svého Syna, narozeného z ženy, narozeného pod Zákonem, aby vykoupil ty, kdo byli pod Zákonem, abychom byli přijati za syny.</p>
+
+<p>ZPĚV PO KRÁTKÉM ČTENÍ</p>
+
+<p><small>Mimo dobu velikonoční</small></p>
+            <p><strong>S L</strong> Zdrávas, Maria, milosti plná, Pán s tebou.<br>
+<strong>S</strong> Požehnaná ty mezi ženami a požehnaný plod tvého lůna.<br>
+<strong>L</strong> Pán s tebou.<br>
+<strong>S</strong> Sláva Otci i Synu i Duchu Svatému.<br>
+<strong>L</strong> Zdrávas, Maria, milosti plná, Pán s tebou.</p>
+            <p><small>V době velikonoční</small></p>
+            <p><strong>S L</strong> Zdrávas, Maria, milosti plná, Pán s tebou. Aleluja, aleluja.<br>
+<strong>S</strong> Požehnaná ty mezi ženami a požehnaný plod tvého lůna.<br>
+<strong>L</strong> Aleluja, aleluja.<br>
+<strong>S</strong> Sláva Otci i Synu i Duchu Svatému.<br>
+<strong>L</strong> Zdrávas, Maria, milosti plná, Pán s tebou. Aleluja, aleluja.</p>
+            <p>EVANGELIJNÍ KANTIKUM</p>
+
+<p><em>Antifona</em></p>
+            <p class="stanza" id="28">
+                
+                
+                Blahoslavená jsi, Maria, / že jsi uvěřila, / neboť se na tobě splní to, / co ti bylo pověděno od Pána. / (Aleluja)
+            </p>
+            <p><em>Kantikum Panny Marie – Lk 1,46–55</em></p>
+            <p>Velebí má <u>du</u>še <u>Pá</u>na&nbsp;*<br>
+&nbsp;a můj duch plesá v Bohu, mém <u>spa</u>siteli,<br>
+že shlédl na svou nepatrnou <u>slu</u>žeb<u>ni</u>ci:&nbsp;*<br>
+&nbsp;Hle, od této chvíle mě budou blahoslavit všechna <u>po</u>kolení,<br>
+že mi učinil veliké věci ten, kte<u>rý</u> je <u>mo</u>cný;&nbsp;*<br>
+&nbsp;jeho jmé<u>no</u> je svaté<br>
+a jeho milosrdenství od pokolení <u>do</u> po<u>ko</u>lení&nbsp;*<br>
+&nbsp;k těm, kdo <u>se</u> ho bojí.<br>
+Prokázal <u>sí</u>lu svým <u>ra</u>menem,&nbsp;*<br>
+&nbsp;rozptýlil ty, kdo v srdci smýš<u>le</u>jí pyšně,<br>
+mocné <u>svr</u>hl <u>z trů</u>nu&nbsp;*<br>
+&nbsp;a poní<u>že</u>né povýšil,<br>
+hladové nasytil <u>dob</u>rými <u>věc</u>mi&nbsp;*<br>
+&nbsp;a bohaté pro<u>pus</u>til s prázdnou.<br>
+Ujal se svého služebníka <u>I</u>zra<u>e</u>le,&nbsp;*<br>
+&nbsp;pamatoval na své mi<u>lo</u>srdenství,<br>
+jak slíbil <u>na</u>šim <u>ot</u>cům,&nbsp;*<br>
+&nbsp;Abrahámovi a jeho po<u>tom</u>kům navěky.<br>
+Sláva <u>Ot</u>ci i <u>Sy</u>nu&nbsp;*<br>
+&nbsp;i <u>Du</u>chu Svatému,<br>
+jako byla na počátku, i <u>ny</u>ní i <u>vždyc</u>ky&nbsp;*<br>
+&nbsp;a na věky <u>vě</u>ků. Amen.</p>
+            <p><em>Antifona</em></p>
+
+<p>PROSBY</p>
+            <p><strong>K</strong> Z celého srdce oslavujeme všemohoucího Boha Otce, který chtěl, aby Marii, matku jeho Syna, velebila všechna pokolení, a pokorně ho prosme:<br>
+<strong>L</strong> Ať se Milostiplná za nás přimlouvá.<br>
+<strong>S</strong> Ty jsi Marii ustanovil za matku milosrdenství,<br>
+– dopřej všem, kdo jsou v nebezpečí, aby zakoušeli její <u>ma</u>teřskou lásku.<br>
+<strong>L</strong> Ať se…<br>
+Ty jsi chtěl, aby Maria v domě Ježíšově a Josefově byla matkou rodiny,<br>
+– uděl na její přímluvu, ať všechny matky ve svých rodinách pečují <u>o lás</u>ku a svatost.<br>
+Ty jsi posiloval Marii, když stála pod křížem, a při vzkříšení svého Syna jsi ji naplnil radostí,<br>
+– ulehči trpícím a <u>posi</u>luj je v naději.<br>
+Ty jsi Marii učinil pozornou k tvému slovu a tvou věrnou služebnicí,<br>
+– učiň nás na její přímluvu dobrými služebníky a učed<u>níky</u> tvého Syna.<br>
+Ty jsi Marii korunoval královnou nebes,<br>
+– dej, ať se zesnulí ve tvém království radují se všemi svatými navěky.</p>
+
+<p>Otče náš…</p>
+            <p><strong>K</strong> Uctíváme slavnou památku nejsvětější Panny Marie;<br>
+dopřej nám, Bože, na její přímluvu,<br>
+abychom i my dostali podíl z nevyčerpatelného bohatství tvé milosti.<br>
+Skrze tvého Syna Ježíše Krista, našeho Pána,<br>
+neboť on s tebou v jednotě Ducha Svatého žije a kraluje<br>
+po všechny věky věků.<br>
+<strong>L</strong> Amen.</p>
+
+<p>ZÁVĚR</p>
+            <p><strong>S</strong> Pán nám žehnej,<br>
+ode všeho zlého nás ochraňuj<br>
+a doveď do věčného života.<br>
+<strong>L</strong> Amen.</p>
+            <p><small>Je-li přítomen kněz nebo jáhen:</small></p>
+            <p><strong>K</strong> Pán s vámi.<br>
+<strong>L</strong> I s tebou.<br>
+<strong>K</strong> Požehnej vás všemohoucí Bůh, Otec i Syn i Duch Svatý.<br>
+<strong>L</strong> Amen.<br>
+<strong>K</strong> Jděte v pokoji.<br>
+<strong>L</strong> Bohu díky.</p>
+
+
+            <hr>
+
+
+            <p><small>T: liturgie – N: chorál; zpracoval Fr. Holík 1975</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

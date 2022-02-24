@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>506&nbsp;&ndash; Latinské odpovědi ke mši | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>506&nbsp;&ndash; Latinské odpovědi ke mši</h1>
+
+            <p><small>Všechny odpovědi <em>Et cum spíritu tuo</em> a <em>Amen</em> se zpívají jedním z následujících způsobů. Výjimkou jsou <em>Et cum spíritu tuo</em> před evangeliem a před prefací.</small></p>
+            <p>
+Et cum spíritu tuo. Amen.
+</p>
+            <p>ÚVODNÍ OBŘADY</p>
+
+<p>
+<em>Vyznávám se…</em><br>
+<strong>V:</strong> Confíteor Deo omnipoténti et vobis, fratres, quia peccávi nimis cogitatióne, verbo, ópere et omissióne: mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, omnes Angelos et Sanctos, et vos, fratres, oráre pro me ad Dóminum Deum nostrum.
+</p>
+
+<p>
+<strong>K:</strong> …ad vitam aetérnam.<br>
+<strong>L:</strong> Amen.
+</p>
+
+<p><small><em>Kyrie, Gloria</em> – viz č. 507 až 509</small></p>
+            <p>BOHOSLUŽBA SLOVA</p>
+
+<p><em>Na konci čtení</em></p>
+            <p>
+<strong>K:</strong> Verbum Dómini.<br>
+<strong>L:</strong> Deo grátias.
+</p>
+
+<p><em>nebo</em></p>
+            <p>
+<strong>K:</strong> Verbum Dómini.<br>
+<strong>L:</strong> Deo grátias.
+</p>
+
+<p><em>K evangeliu</em></p>
+            <p>
+<strong>L:</strong> Et cum Spíritu tuo. Glória tibi, Dómine.<br>
+<strong>K:</strong> …Dómini.<br>
+<strong>L:</strong> Laus tibi, Christe.
+</p>
+
+<p><em>Credo I.</em></p>
+            <p>
+<strong>K:</strong> Credo in unum Deum,<br>
+<strong>S:</strong> Patrem omnipoténtem, factórem caeli et terrae, visibílium ómnium et invisibílium.<br>
+<strong>L:</strong> Et in unum Dóminum Iesum Christum, Fílium Dei unigénitum.<br>
+<strong>S:</strong> Et ex Patre natum ante ómnia saécula.<br>
+<strong>L:</strong> Deum de Deo, lumen de lúmine. Deum verum de Deo vero.<br>
+<strong>S:</strong> Génitum, non factum, consubstantiálem Patri: per quem ómnia facta sunt.<br>
+<strong>L:</strong> Qui propter nos hómines et propter nostram salútem descéndit de caelis.<br>
+<strong>S:</strong> Et incarnátus est de Spíritu Sancto ex María Vírgine, et homo factus est.<br>
+<strong>L:</strong> Crucifíxus étiam pro nóbis sub Póntio Piláto; passus et sepúltus est.<br>
+<strong>S:</strong> Et resurréxit tértia die, secúndum Scriptúras.<br>
+<strong>L:</strong> Et ascéndit in caelum, sedet ad déxteram Patris.<br>
+<strong>S:</strong> Et íterum ventúrus est cum glória, iudicáre vivos et mórtuos, cuius regni non erit finis.<br>
+<strong>L:</strong> Et in Spíritum Sanctum, Dóminum et vivificántem, qui ex Patre Filióque procédit.<br>
+<strong>S:</strong> Qui cum Patre et Fílio simul adorátur et conglorificátur: qui locútus est per prophétas.<br>
+<strong>L:</strong> Et unam, sanctam, cathólicam et apostólicam Ecclésiam.<br>
+<strong>S:</strong> Confíteor unum baptísma in remissiónem peccatórum.<br>
+<strong>L:</strong> Et exspécto resurrectiónem mortuórum.<br>
+<strong>S:</strong> Et vitam ventúri saéculi.<br>
+<strong>V:</strong> Amen.
+</p>
+
+<p><em>Credo III.</em></p>
+            <p>
+<strong>K:</strong> Credo in unum Deum,<br>
+<strong>S:</strong> Patrem omnipoténtem, factórem caeli et terrae, visibílium ómnium et invisibílium.<br>
+<strong>L:</strong> Et in unum Dóminum Iesum Christum, Fílium Dei unigénitum.<br>
+<strong>S:</strong> Et ex Patre natum ante ómnia saécula.<br>
+<strong>L:</strong> Deum de Deo, lumen de lúmine. Deum verum de Deo vero.<br>
+<strong>S:</strong> Génitum, non factum, consubstantiálem Patri: per quem ómnia facta sunt.<br>
+<strong>L:</strong> Qui propter nos hómines et propter nostram salútem descéndit de caelis.<br>
+<strong>S:</strong> Et incarnátus est de Spíritu Sancto ex María Vírgine, et homo factus est.<br>
+<strong>L:</strong> Crucifíxus étiam pro nóbis sub Póntio Piláto; passus et sepúltus est.<br>
+<strong>S:</strong> Et resurréxit tértia die, secúndum Scriptúras.<br>
+<strong>L:</strong> Et ascéndit in caelum, sedet ad déxteram Patris.<br>
+<strong>S:</strong> Et íterum ventúrus est cum glória, iudicáre vivos et mórtuos, cuius regni non erit finis.<br>
+<strong>L:</strong> Et in Spíritum Sanctum, Dóminum et vivificántem, qui ex Patre Filióque procédit.<br>
+<strong>S:</strong> Qui cum Patre et Fílio simul adorátur et conglorificátur: qui locútus est per prophétas.<br>
+<strong>L:</strong> Et unam, sanctam, cathólicam et apostólicam Ecclésiam.<br>
+<strong>S:</strong> Confíteor unum baptísma in remissiónem peccatórum.<br>
+<strong>L:</strong> Et exspécto resurrectiónem mortuórum.<br>
+<strong>S:</strong> Et vitam ventúri saéculi.<br>
+<strong>V:</strong> Amen.
+</p>
+
+<p><em>Přímluvy</em></p>
+            <p>
+<strong>L:</strong> Te rogámus, audi nos.
+</p>
+            <p>SLAVENÍ EUCHARISTIE</p>
+
+<p>
+<em>Příprava darů</em><br>
+<strong>K:</strong> Oráte, fratres …omnipoténtem.<br>
+<strong>L:</strong> Suscípiat Dóminus sacrifícium de mánibus tuis ad laudem et glóriam nóminis sui, ad utilitátem quoque nostram totiúsque Ecclésiae suae sanctae.
+</p>
+
+<p>Eucharistická modlitba</p>
+
+<p><em>Preface</em></p>
+            <p>
+<strong>K:</strong> …vobíscum.<br>
+<strong>L:</strong> Et cum spíritu tuo.<br>
+<strong>K:</strong> …corda.<br>
+<strong>L:</strong> Habémus ad Dóminum.<br>
+<strong>K:</strong> …nostro.<br>
+<strong>L:</strong> Dignum et iustum est.
+</p>
+
+<p><small><em>Sanctus</em> – viz č. 507 až 509.</small></p>
+
+<p><em>Po proměnění</em></p>
+            <p>
+<strong>K:</strong> Mystérium fídei.<br>
+<strong>L:</strong> Mortem tuam annuntiámus, Dómine, et tuam resurrectiónem confitémur, donec vénias.
+</p>
+
+<p>Přijímání</p>
+
+<p><em>Modlitba Páně</em></p>
+            <p>
+Pater noster, qui es in caelis: sanctificétur nomen tuum; advéniat regnum tuum; fiat volúntas tua, sicut in caelo, et in terra. Panem nostrum quotidiánum da nobis hódie; et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris; et ne nos indúcas in tentatiónem; sed líbera nos a malo.
+</p>
+            <p>
+<strong>K:</strong> …Christi.<br>
+<strong>L:</strong> Quia tuum est regnum, et potéstas, et glória in saécula.
+</p>
+
+<p><small><em>Agnus Dei</em> – viz č. 507 až 509.</small></p>
+            <p>
+<strong>K:</strong> Ecce Agnus Dei …vocáti sunt.<br>
+<strong>V:</strong> Dómine, non sum dignus, ut intres sub tectum meum, sed tantum dic verbo et sanábitur ánima mea.
+</p>
+            <p>ZÁVĚREČNÉ OBŘADY</p>
+            <p>
+<strong>K:</strong> Ite, missa est.<br>
+<strong>L:</strong> Deo grátias.
+</p>
+
+<p><small>Ve velikonočním týdnu a při slavnosti Seslání Ducha Svatého:</small></p>
+            <p>
+<strong>K:</strong> Ite, missa est, allelúia, allelúia.<br>
+<strong>L:</strong> Deo grátias, allelúia, allelúia.
+</p>
+
+
+            <hr>
+
+
+            <p><small>N: chorál 10.–17. stol.</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>

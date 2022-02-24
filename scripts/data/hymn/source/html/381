@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Elektronická verze Kancionálu, společného zpěvníku českých a moravských diecézí, dostupná on-line i ke stažení.">
+        <meta name="keywords" content="kancionál,jednotný kancionál,ekancional,elektronický kancionál,společný zpěvník českých a moravských diecézí, červený kancionál, modrý kancionál, zelený kancionál">
+
+        <title>381&nbsp;&ndash; Zahlaď, Bože, mou nepravost | Kancionál</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu&subset=latin-ext,latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css?v3.1.1" media="screen">
+        <link rel="stylesheet" href="/css/screen.css?v1.0.10" media="screen">
+        <link rel="stylesheet" media="print" href="/css/print.css?v0.2.2">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="shortcut icon" href="/favicon.ico">
+            </head>
+    <body>
+        <script> document.documentElement.className+=' js' </script>
+
+        <a href="#content" class="sr-only">Přeskočit na obsah</a>
+
+        <!-- Navbar -->
+        <header id="menu" class="navbar navbar-inverse navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Kancionál</a>
+                </div>
+
+                <nav class="collapse navbar-collapse" role="navigation">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Seznamy písní <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/ciselny-seznam">Číselný seznam</a></li>
+                                <li><a href="/abecedni-seznam">Abecední seznam</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/ke-stazeni">Ke stažení</a></li>
+                        <li><a href="/o-projektu">O&nbsp;projektu</a></li>
+                    </ul>
+
+					<form action="/" method="get" id="search" class="navbar-form" role="search">
+
+					    <div class="input-group navbar-right col-sm-4 col-md-3 col-lg-3">
+					        <input type="search" name="query" id="frm-searchForm-query" required data-nette-rules='[{"op":":filled","msg":"This field is required."},{"op":":minLength","msg":"Zadejte prosím dotaz k vyhledání.","arg":1}]' placeholder="Vyhledávání" class="form-control">
+
+					        <span class="input-group-btn">
+					            <button name="submit" type="submit" class="btn btn-info">
+					                <span class="glyphicon glyphicon-search"></span>
+					            </button>
+					        </span>
+					    </div>
+					<input type="hidden" name="do" value="searchForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+					</form>
+
+
+                </nav>
+            </div>
+        </header>
+
+        <main id="content" class="container">
+            <h1>381&nbsp;&ndash; Zahlaď, Bože, mou nepravost</h1>
+
+            <p><em>Zpěv při udělování popelce</em></p>
+            <p class="song"><img src="/images/songs/381-2.png" alt="Noty k písni číslo 381&nbsp;&ndash; Zahlaď, Bože, mou nepravost" class="img-responsive"></p>
+            <p class="stanza" id="2">
+                
+                
+                Zahlaď, Bože, mou nepravost.
+            </p>
+            <p><em>Žalm 51 (50)</em></p>
+            <p class="song"><img src="/images/songs/381-4.png" alt="Noty k písni číslo 381&nbsp;&ndash; Zahlaď, Bože, mou nepravost" class="img-responsive"></p>
+            <p>Smiluj se nade mnou, Bože, pro své <u>mi</u>losrdenství&nbsp;*,<br>
+&nbsp;pro své velké slitování za<u>hlaď</u> mou nepravost.<br>
+Smyj ze mě úpl<u>ně</u> mou vinu&nbsp;*<br>
+&nbsp;a očisť mě od <u>mé</u>ho hříchu.<br>
+Neboť já svou ne<u>pra</u>vost uznávám,&nbsp;*<br>
+&nbsp;můj hřích je <u>stá</u>le přede mnou.<br>
+Jen proti tobě <u>jsem</u> se prohřešil,&nbsp;*<br>
+&nbsp;spáchal jsem, <u>co</u> je před tebou zlé,<br>
+takže se ukáže, jak je tvůj roz<u>su</u>dek spravedlivý,&nbsp;*<br>
+&nbsp;že jsi bezúhonný <u>ve</u> svém soudu.<br>
+Hle, líbí se ti u<u>přím</u>né srdce,&nbsp;*<br>
+&nbsp;ve skrytu mě <u>u</u>číš moudrosti.<br>
+Pokrop mě yzopem, a <u>bu</u>du čistý,&nbsp;*<br>
+&nbsp;umyj mě, a budu <u>bě</u>lejší než sníh.<br>
+Odvrať svou tvář <u>od</u> mých hříchů&nbsp;*<br>
+&nbsp;a zahlaď všech<u>ny</u> mé viny.<br>
+Stvoř mi čisté <u>sr</u>dce, Bože,&nbsp;*<br>
+&nbsp;obnov ve mně ducha <u>vy</u>trvalosti.<br>
+Neodvrhuj mě <u>od</u> své tváře&nbsp;*<br>
+&nbsp;a neodnímej mi svého Sva<u>té</u>ho Ducha.<br>
+Vrať mi radost <u>ze</u> své ochrany&nbsp;*<br>
+&nbsp;a posil<u>ni</u> mou velkodušnost.<br>
+Otevři <u>mé</u> rty, Pane,&nbsp;*<br>
+&nbsp;aby má ústa zvěstova<u>la</u> tvou chválu.<br>
+Vždyť nemáš zá<u>li</u>bu v oběti,&nbsp;*<br>
+&nbsp;kdybych věnoval žertvu, nebyla <u>by</u> ti milá.<br>
+Mou obětí, Bo<u>že</u>, je zkroušený duch,&nbsp;*<br>
+&nbsp;zkroušeným a pokorným srdcem, <u>Bo</u>že, nepohrdneš.</p>
+
+
+            <hr>
+
+
+            <p><small>N: J. Olejník</small></p>
+        </main>
+
+        <footer class="container">
+            <span class="no-print"><a href="http://blog.kancional.cz/nahlasit-chybu">Nahlásit chybu</a>&nbsp;&mdash; </span>Web Kancionál je součást <a href="http://www.liturgie.cz" target="_blank">Liturgie.cz</a> &copy;&nbsp;<a href="https://www.cirkev.cz" target="_blank">ČBK</a>
+        </footer>
+
+        <script src="/js/jquery-1.11.0.min.js"></script>
+        <script src="/js/bootstrap.min.js?v3.1.1"></script>
+        <script src="/js/netteForms.js?v1.0.0"></script>
+        <script src="/js/custom.js?v1.0.1"></script>
+
+        <!-- Matomo -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="https://matomo.ondra.biz/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '4']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><img src="https://matomo.ondra.biz/piwik.php?idsite=4&amp;rec=1" style="border:0" alt=""></noscript>
+        <!-- End Matomo Code -->
+    </body>
+</html>
