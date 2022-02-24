@@ -9,7 +9,7 @@ The psalms are placed in the psalms directory so that each psalm has its own num
 filenames must start from 001 to 996
 
 the overall picture of the SD katra will then be as follows :
-
+```
 [ROOT]
 	[zalmy]
 		001.txt
@@ -27,3 +27,4 @@ the overall picture of the SD katra will then be as follows :
 		...
 		...
 	
+```
