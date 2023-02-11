@@ -530,20 +530,16 @@ bool loadPsalm(const char *name)
 
   bool rc = false;
   auto dir = FileBrowser();
-  dir.setDirectory(SDCARD_MOUNT_PATH);
-  const auto psalmdir = text_psalms;
-  dir.changeDirectory(psalmdir);
+
+  memset(&buffer[0], 0, MAX_BUFFER_SIZE);
+  sprintf(buffer, "%s/%s", SDCARD_MOUNT_PATH, text_psalms);
+  dir.setDirectory(buffer);
   rc = dir.exists(name, false);
+  memset(&buffer[0], 0, MAX_BUFFER_SIZE);
+
   if (!rc)
   {
-    FileBrowser::remountSDCard();
-    dir.setDirectory(SDCARD_MOUNT_PATH);
-    dir.changeDirectory(psalmdir);
-    rc = dir.exists(name, false);
-    if (!rc)
-    {
-      return rc;
-    }
+    return rc;
   }
 
   auto cnt = 0;
@@ -582,26 +578,18 @@ bool loadPsalm(const char *name)
 bool loadCancional(int one, int two, const char *directory, const char *name)
 {
   char buffer[MAX_BUFFER_SIZE];
-  memset(&buffer[0], 0, MAX_BUFFER_SIZE);
-
   bool rc = false;
   auto dir = FileBrowser();
-  dir.setDirectory(SDCARD_MOUNT_PATH);
-  const auto psalmdir = text_hymns;
-  dir.changeDirectory(psalmdir);
-  dir.changeDirectory(directory);
+
+  memset(&buffer[0], 0, MAX_BUFFER_SIZE);
+  sprintf(buffer, "%s/%s/%s", SDCARD_MOUNT_PATH, text_hymns, directory);
+  dir.setDirectory(buffer);
   rc = dir.exists(name, false);
+  memset(&buffer[0], 0, MAX_BUFFER_SIZE);
 
   if (!rc)
   {
-    // todo
-    // FileBrowser::remountSDCard();
-    // dir.setDirectory(SDCARD_MOUNT_PATH);
-    // dir.changeDirectory(psalmdir);
-    // rc = dir.exists(name,false);
-    // if (!rc) {
     return rc;
-    //}
   }
 
   auto cnt = 0;
@@ -670,7 +658,10 @@ void setup()
   PS2Controller.begin(PS2Preset::KeyboardPort0);
 
   // SD Card
-  auto rc = FileBrowser::mountSDCard(FORMAT_ON_FAIL, SDCARD_MOUNT_PATH, 4, 16 * 1024, 2, 12, 14, 13);
+  auto rc = FileBrowser::mountSDCard(FORMAT_ON_FAIL, SDCARD_MOUNT_PATH, 4, 16 * 1024, SD_MISO, SD_MOSI, SD_CLK, SD_CS);
+  FileBrowser::setSDCardMaxFreqKHz(SDMMC_FREQ_DEFAULT);
+  FileBrowser::remountSDCard();
+
   initialTest(rc);
 
   delay(5000);
@@ -720,6 +711,7 @@ int keyboardupdate()
 void loop()
 {
 
+
   bool changed = false;
   auto kbd = keyboardupdate();
 
@@ -736,7 +728,7 @@ void loop()
   }
 
   if (nb.isChanged())
-  {
+  { 
     nb.cancelChange();
     if (nb.isHello())
     {

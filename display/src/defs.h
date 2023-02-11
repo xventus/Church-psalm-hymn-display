@@ -64,6 +64,11 @@
 #define APC220_RX1 27 // (Data PS/2)  RED
 #define APC220_TX1 14 //  not used from header
 
+// SD CARD interface
+#define SD_MISO 2
+#define SD_MOSI 12
+#define SD_CLK  14
+#define SD_CS   13 
 
 // buffer defs. 
 #define MAX_BUFFER_SIZE 300 // max text len
