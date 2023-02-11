@@ -49,3 +49,17 @@ Volně k použití pro kostely, nekomerční účely ...
 ![remote](/controller/DOC/images/IMG_4635.jpg)
 ![case](/controller/case%203d%20print/overall_keypad.png)
 
+# Nastavení knihoven
+```
+Platform espressif32 @ 6.0.1 (required: espressif32)
+├── framework-arduinoespressif32 @ 3.20006.221224 (required: platformio/framework-arduinoespressif32 @ ~3.20006.0)
+├── tool-esptoolpy @ 1.40400.0 (required: platformio/tool-esptoolpy @ ~1.40400.0)
+├── tool-mkfatfs @ 2.0.1 (required: platformio/tool-mkfatfs @ ~2.0.0)
+├── tool-mklittlefs @ 1.203.210628 (required: platformio/tool-mklittlefs @ ~1.203.0)
+├── tool-mkspiffs @ 2.230.0 (required: platformio/tool-mkspiffs @ ~2.230.0)
+├── tool-openocd-esp32 @ 2.1100.20220706 (required: platformio/tool-openocd-esp32 @ ~2.1100.0)
+└── toolchain-xtensa-esp32 @ 8.4.0+2021r2-patch5 (required: espressif/toolchain-xtensa-esp32 @ 8.4.0+2021r2-patch5)
+
+Libraries
+└── FabGL @ 1.0.9 (required: fdivitto/FabGL @ ^1.0.9)
+```
