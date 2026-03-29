@@ -1,7 +1,8 @@
 import os
 import re
+import sys
 
-INPUT_DIR = "/Users/petrvanek/Documents/text-zalm/zalmy"
+INPUT_DIR = sys.argv[1] if len(sys.argv) > 1 else os.getcwd()
 OUTPUT_ALPHA = "index_abecedne.txt"
 OUTPUT_NUM = "index_cisla.txt"
 
